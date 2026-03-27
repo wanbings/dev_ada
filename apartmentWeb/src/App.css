@@ -417,6 +417,7 @@
   transition: transform 0.15s, box-shadow 0.15s;
   cursor: pointer;
   border: 1px solid var(--bg-alt);
+  position: relative;
 }
 
 .apt-card:hover {
@@ -451,6 +452,38 @@
   box-shadow:
     -22px 4px 0 6px rgba(255, 255, 255, 0.72),
     24px 2px 0 4px rgba(255, 255, 255, 0.65);
+}
+
+.apt-card-favorite {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.2s;
+  backdrop-filter: blur(4px);
+}
+
+.apt-card-favorite:hover {
+  transform: scale(1.15);
+  background: rgba(255, 255, 255, 1);
+}
+
+.apt-card-favorite.favorited {
+  background: rgba(255, 255, 255, 0.95);
+}
+
+.apt-card-favorite:active {
+  transform: scale(0.95);
 }
 
 .apt-card-body {

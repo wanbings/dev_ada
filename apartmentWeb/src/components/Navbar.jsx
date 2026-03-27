@@ -20,10 +20,18 @@ export default function Navbar({ currentPage, onNavigate }) {
       </div>
 
       <div className="navbar-actions">
-        <button className="icon-btn" title="Saved listings">
-          🔖
+        <button
+          className="icon-btn"
+          title="Favorites"
+          onClick={() => onNavigate('favorites')}
+        >
+          ❤️
         </button>
-        <button className="icon-btn" title="Account">
+        <button
+          className="icon-btn"
+          title="Account"
+          onClick={() => onNavigate('auth')}
+        >
           👤
         </button>
       </div>

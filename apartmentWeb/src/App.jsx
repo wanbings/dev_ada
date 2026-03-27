@@ -2,6 +2,8 @@ import { useState } from 'react'
 import Navbar from './components/Navbar'
 import HomePage from './components/HomePage'
 import SearchPage from './components/SearchPage'
+import AuthPage from './components/AuthPage'
+import FavoritesPage from './components/FavoritesPage'
 import './App.css'
 
 function App() {
@@ -12,6 +14,8 @@ function App() {
       <Navbar currentPage={currentPage} onNavigate={setCurrentPage} />
       {currentPage === 'home' && <HomePage onNavigate={setCurrentPage} />}
       {currentPage === 'search' && <SearchPage />}
+      {currentPage === 'auth' && <AuthPage />}
+      {currentPage === 'favorites' && <FavoritesPage />}
     </>
   )
 }
