@@ -1,0 +1,1282 @@
+[
+    {
+        "address": "54 E Chalmers St",
+        "url": "https://www.greenstrealty.com/properties/profile/54-e-chalmers-st",
+        "beds": "4",
+        "baths": "2",
+        "rent": "$100",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "54 E Chalmers St",
+        "url": "https://www.greenstrealty.com/properties/profile/54-e-chalmers-st",
+        "beds": "4",
+        "baths": "2",
+        "rent": "$100",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "112 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/112-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1450",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "105 E Armory Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/105-e-armory-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$500",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "105 E Armory Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/105-e-armory-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$500",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "901 S Second St",
+        "url": "https://www.greenstrealty.com/properties/profile/901-s-second-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "901 S Second St",
+        "url": "https://www.greenstrealty.com/properties/profile/901-s-second-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "309 E Springfield Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/309-e-springfield-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1500",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "112 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/112-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1450",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "309 E Springfield Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/309-e-springfield-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1500",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "901 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/901-s-fourth-st",
+        "beds": "1",
+        "baths": "1",
+        "rent": "$1650",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "907 S Third St",
+        "url": "https://www.greenstrealty.com/properties/profile/907-s-third-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$947",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/1007-w-university-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1550",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "907 S Third St",
+        "url": "https://www.greenstrealty.com/properties/profile/907-s-third-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$947",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/1007-w-university-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1550",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "1005 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/1005-s-first-st",
+        "beds": "N/A",
+        "baths": "N/A",
+        "rent": "$995",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "1009 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/1009-s-first-st",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$550",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "1005 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/1005-s-first-st",
+        "beds": "N/A",
+        "baths": "N/A",
+        "rent": "$995",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "1009 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/1009-s-first-st",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$550",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "901 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/901-s-fourth-st",
+        "beds": "1",
+        "baths": "1",
+        "rent": "$1650",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "101 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/101-e-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "102 N Gregory St",
+        "url": "https://www.greenstrealty.com/properties/profile/102-n-gregory-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "102 N Gregory St",
+        "url": "https://www.greenstrealty.com/properties/profile/102-n-gregory-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "101 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/101-e-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "102 S Lincoln Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/102-s-lincoln-ave",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$637",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "103 E John St 2",
+        "url": "https://www.greenstrealty.com/properties/profile/103-e-john-st-2",
+        "beds": "2",
+        "baths": "4",
+        "rent": "$900",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "102 S Lincoln Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/102-s-lincoln-ave",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$637",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "103 E John St 2",
+        "url": "https://www.greenstrealty.com/properties/profile/103-e-john-st-2",
+        "beds": "2",
+        "baths": "4",
+        "rent": "$900",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/103-e-healey-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "104 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/104-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1575",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/103-e-healey-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "108 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/108-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "105 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/105-s-fourth-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1125",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "104 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/104-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1575",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "105 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/105-s-fourth-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1125",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "108 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/108-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "106 E Armory Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/106-e-armory-ave",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$1350",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "106 E Armory Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/106-e-armory-ave",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$1350",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "111 S Busey Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/111-s-busey-ave",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "111 S Busey Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/111-s-busey-ave",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "201 S Busey Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/201-s-busey-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "1106 S Euclid St",
+        "url": "https://www.greenstrealty.com/properties/profile/1106-s-euclid-st",
+        "beds": "4",
+        "baths": "2",
+        "rent": "$725",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "202 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/202-e-white-st",
+        "beds": "2",
+        "baths": "2",
+        "rent": "$762",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "201 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/201-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1325",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "201 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/201-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1325",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "201 S Busey Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/201-s-busey-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "1106 S Euclid St",
+        "url": "https://www.greenstrealty.com/properties/profile/1106-s-euclid-st",
+        "beds": "4",
+        "baths": "2",
+        "rent": "$725",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "202 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/202-e-white-st",
+        "beds": "2",
+        "baths": "2",
+        "rent": "$762",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "209 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/209-e-clark-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$647",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "208 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/208-e-white-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$762",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "208 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/208-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1450",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "209 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/209-e-clark-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$647",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "208 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/208-e-white-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$762",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "209 E University Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/209-e-university-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1125",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "208 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/208-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1450",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "209 E University Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/209-e-university-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1125",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "204 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/204-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1150",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "204 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/204-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1150",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "209 W Griggs",
+        "url": "https://www.greenstrealty.com/properties/profile/209-w-griggs",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1025",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "209 W Griggs",
+        "url": "https://www.greenstrealty.com/properties/profile/209-w-griggs",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1025",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "211 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/211-e-clark-st",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$575",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "210 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/210-e-white-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$762",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "210 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/210-e-white-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$762",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "212 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/212-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "211 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/211-e-clark-st",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$575",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "213 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/213-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1325",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "213 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/213-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1325",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "212 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/212-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "303 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/303-w-green-st",
+        "beds": "1",
+        "baths": "1.5",
+        "rent": "$1095",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "301 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/301-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1195",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "301 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/301-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1195",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/302-s-second-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1125",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/302-s-second-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1125",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "304 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/304-e-clark-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$562",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "304 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/304-e-clark-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$562",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "303 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/303-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1225",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "303 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/303-w-green-st",
+        "beds": "1",
+        "baths": "1.5",
+        "rent": "$1095",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "303 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/303-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1225",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "306 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/306-e-clark-st",
+        "beds": "1",
+        "baths": "1",
+        "rent": "$1200",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "305 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/305-e-green-st",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$533",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "305 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/305-e-green-st",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$533",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "306 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/306-e-clark-st",
+        "beds": "1",
+        "baths": "1",
+        "rent": "$1200",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "308 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/308-e-clark-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$862",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "310 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/310-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1095",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "310 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/310-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1095",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/32-e-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$1000",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "308 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/308-e-clark-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$862",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/32-e-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$1000",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "405 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/405-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1295",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "501 E University Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/501-e-university-ave",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "501 E University Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/501-e-university-ave",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "405 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/405-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1295",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "503 E Springfield Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/503-e-springfield-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "503 E Springfield Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/503-e-springfield-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "504 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/504-e-white-st",
+        "beds": "N/A",
+        "baths": "N/A",
+        "rent": "$895",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "504 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/504-e-white-st",
+        "beds": "N/A",
+        "baths": "N/A",
+        "rent": "$895",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "505 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/505-s-fourth-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1225",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "505 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/505-s-fourth-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1225",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "508 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/508-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1295",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "508 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/508-s-first-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1100",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "508 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/508-s-first-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1100",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "508 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/508-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1295",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "509 S Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/509-s-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$837",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "509 S Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/509-s-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$837",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "509 W Main St",
+        "url": "https://www.greenstrealty.com/properties/profile/509-w-main-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "509 W Main St",
+        "url": "https://www.greenstrealty.com/properties/profile/509-w-main-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "515 Bash Ct",
+        "url": "https://www.greenstrealty.com/properties/profile/515-bash-ct",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$700",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "54 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/54-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1300",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "54 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/54-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1300",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "55 E Healey",
+        "url": "https://www.greenstrealty.com/properties/profile/55-e-healey",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "55 E Healey",
+        "url": "https://www.greenstrealty.com/properties/profile/55-e-healey",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "55 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/55-e-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1495",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "55 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/55-e-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1495",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "56 1 2 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/56-1-2-e-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1195",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "56 1 2 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/56-1-2-e-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1195",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "56 E Healey St",
+        "url": "https://www.greenstrealty.com/properties/profile/56-e-healey-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "515 Bash Ct",
+        "url": "https://www.greenstrealty.com/properties/profile/515-bash-ct",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$700",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "57 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/57-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1075",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "57 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/57-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1075",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "608 S State St",
+        "url": "https://www.greenstrealty.com/properties/profile/608-s-state-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$950",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "58 E Healey St",
+        "url": "https://www.greenstrealty.com/properties/profile/58-e-healey-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "609 S Randolph St",
+        "url": "https://www.greenstrealty.com/properties/profile/609-s-randolph-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1300",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "58 E Healey St",
+        "url": "https://www.greenstrealty.com/properties/profile/58-e-healey-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "56 E Healey St",
+        "url": "https://www.greenstrealty.com/properties/profile/56-e-healey-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "609 S Randolph St",
+        "url": "https://www.greenstrealty.com/properties/profile/609-s-randolph-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1300",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "701 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/701-w-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$637",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "701 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/701-w-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$637",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "619 S Wright St",
+        "url": "https://www.greenstrealty.com/properties/profile/619-s-wright-st",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$987",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "702 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/702-w-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "608 S State St",
+        "url": "https://www.greenstrealty.com/properties/profile/608-s-state-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$950",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "702 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/702-w-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "704 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/704-w-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "704 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/704-w-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "619 S Wright St",
+        "url": "https://www.greenstrealty.com/properties/profile/619-s-wright-st",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$987",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "706 S Locust St",
+        "url": "https://www.greenstrealty.com/properties/profile/706-s-locust-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$650",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "712 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/712-w-elm-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$800",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "712 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/712-w-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$697",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "712 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/712-w-elm-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$800",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "712 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/712-w-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$697",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "706 S Locust St",
+        "url": "https://www.greenstrealty.com/properties/profile/706-s-locust-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$650",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "713 S Sixth St",
+        "url": "https://www.greenstrealty.com/properties/profile/713-s-sixth-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$875",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "714 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/714-w-elm-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$895",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "714 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/714-w-elm-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$895",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "713 S Sixth St",
+        "url": "https://www.greenstrealty.com/properties/profile/713-s-sixth-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$875",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "803 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/803-w-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "803 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/803-w-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "806 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/806-w-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$662",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "808 S Oak St",
+        "url": "https://www.greenstrealty.com/properties/profile/808-s-oak-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "806 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/806-w-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$662",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "808 S Oak St",
+        "url": "https://www.greenstrealty.com/properties/profile/808-s-oak-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "810 S Oak St",
+        "url": "https://www.greenstrealty.com/properties/profile/810-s-oak-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$550",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "810 W Iowa St",
+        "url": "https://www.greenstrealty.com/properties/profile/810-w-iowa-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$625",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "905 S Locust St",
+        "url": "https://www.greenstrealty.com/properties/profile/905-s-locust-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$675",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "909 S Third St",
+        "url": "https://www.greenstrealty.com/properties/profile/909-s-third-st",
+        "beds": "3",
+        "baths": "1",
+        "rent": "$600",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "909 S Third St",
+        "url": "https://www.greenstrealty.com/properties/profile/909-s-third-st",
+        "beds": "3",
+        "baths": "1",
+        "rent": "$600",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "810 S Oak St",
+        "url": "https://www.greenstrealty.com/properties/profile/810-s-oak-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$550",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "810 W Iowa St",
+        "url": "https://www.greenstrealty.com/properties/profile/810-w-iowa-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$625",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "911 S Locust St",
+        "url": "https://www.greenstrealty.com/properties/profile/911-s-locust-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1095",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "911 S Locust St",
+        "url": "https://www.greenstrealty.com/properties/profile/911-s-locust-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1095",
+        "sq_ft": "N/A"
+    },
+    {
+        "address": "905 S Locust St",
+        "url": "https://www.greenstrealty.com/properties/profile/905-s-locust-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$675",
+        "sq_ft": "N/A"
+    }
+]

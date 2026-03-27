@@ -1,50 +1,15 @@
-:root {
-  --navy: #1b2d4f;
-  --navy-hover: #243d65;
-  --navy-light: #2d4a6e;
-  --accent: #2980b9;
-  --accent-hover: #2471a3;
-  --hero-bg: #4a6285;
-  --bg: #f0f4f8;
-  --bg-alt: #e2e9f2;
-  --card: #ffffff;
-  --border: #b5c3d8;
-  --text-on-dark: #f0f4fa;
-  --text-dark: #1b2d4f;
-  --text-muted: #5a708a;
-  --shadow: 0 2px 8px rgba(27, 45, 79, 0.12);
-  --shadow-card: 0 2px 12px rgba(27, 45, 79, 0.10);
-  --shadow-lg: 0 6px 24px rgba(27, 45, 79, 0.18);
-  --r: 8px;
-  --r-pill: 999px;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-*, *::before, *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
+/* Base minimal styles */
 body {
-  font-family: 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif;
-  background: var(--bg);
-  color: var(--text-dark);
-  min-height: 100vh;
-  display: block;
-}
-
-#root {
-  max-width: 100%;
   margin: 0;
   padding: 0;
-  text-align: left;
+  box-sizing: border-box;
+  background-color: #0f172a;
 }
 
-button {
-  cursor: pointer;
-  font-family: inherit;
-}
-
-input {
-  font-family: inherit;
+* {
+  box-sizing: border-box;
 }
