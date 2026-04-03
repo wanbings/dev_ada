@@ -641,6 +641,11 @@
   transition: border-color 0.15s;
 }
 
+.sidebar-text-input option {
+  color: black;
+  background: white;
+}
+
 .sidebar-text-input::placeholder {
   color: rgba(255, 255, 255, 0.38);
 }

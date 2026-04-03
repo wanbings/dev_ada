@@ -1,33 +1,5 @@
 [
     {
-        "address": "504 E. Stoughton, Champaign",
-        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
-        "beds": "Studio \u2013 1st Floor (exterior)",
-        "baths": "1",
-        "rent": "$1390.00"
-    },
-    {
-        "address": "504 E. Stoughton, Champaign",
-        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
-        "beds": "Studio B",
-        "baths": "1",
-        "rent": "$1590.00"
-    },
-    {
-        "address": "504 E. Stoughton, Champaign",
-        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
-        "beds": "Studio A",
-        "baths": "1",
-        "rent": "$1520.00"
-    },
-    {
-        "address": "504 E. Stoughton, Champaign",
-        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
-        "beds": "Studio C",
-        "baths": "1",
-        "rent": "$1475.00"
-    },
-    {
         "address": "303 E. Chalmers, Champaign",
         "url": "https://ugroupcu.com/property-details/303-e-chalmers-champaign",
         "beds": "Studio",
@@ -84,6 +56,118 @@
         "rent": "$1490.00"
     },
     {
+        "address": "504 E. Stoughton, Champaign",
+        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
+        "beds": "Studio \u2013 1st Floor (exterior)",
+        "baths": "1",
+        "rent": "$1390.00"
+    },
+    {
+        "address": "504 E. Stoughton, Champaign",
+        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
+        "beds": "Studio B",
+        "baths": "1",
+        "rent": "$1590.00"
+    },
+    {
+        "address": "504 E. Stoughton, Champaign",
+        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
+        "beds": "Studio A",
+        "baths": "1",
+        "rent": "$1520.00"
+    },
+    {
+        "address": "504 E. Stoughton, Champaign",
+        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
+        "beds": "Studio C",
+        "baths": "1",
+        "rent": "$1475.00"
+    },
+    {
+        "address": "412 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
+        "beds": "Studio",
+        "baths": "1",
+        "rent": "$1440.00"
+    },
+    {
+        "address": "412 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
+        "beds": "1 Bedroom Layout A",
+        "baths": "1",
+        "rent": "$1750.00"
+    },
+    {
+        "address": "412 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
+        "beds": "1 Bedroom Layout D",
+        "baths": "1",
+        "rent": "$0.00"
+    },
+    {
+        "address": "1009 W. Clark, Urbana",
+        "url": "https://ugroupcu.com/property-details/1009-w-clark-urbana",
+        "beds": "2 Bedroom",
+        "baths": "1",
+        "rent": "$558.00"
+    },
+    {
+        "address": "505 S. First, Champaign",
+        "url": "https://ugroupcu.com/property-details/505-s-first",
+        "beds": "4 Bedroom",
+        "baths": "2",
+        "rent": "$790.00"
+    },
+    {
+        "address": "505 S. First, Champaign",
+        "url": "https://ugroupcu.com/property-details/505-s-first",
+        "beds": "2 Bedroom",
+        "baths": "1",
+        "rent": "$920.00"
+    },
+    {
+        "address": "505 S. First, Champaign",
+        "url": "https://ugroupcu.com/property-details/505-s-first",
+        "beds": "3 Bedroom",
+        "baths": "2",
+        "rent": "$930.00"
+    },
+    {
+        "address": "511-513 S. Elm, Champaign",
+        "url": "https://ugroupcu.com/property-details/511-513-s-elm-champaign",
+        "beds": "2 bedrooms",
+        "baths": "1",
+        "rent": "$447.50"
+    },
+    {
+        "address": "409 W. Green, Champaign",
+        "url": "https://ugroupcu.com/property-details/409-w-green-champaign",
+        "beds": "1 bedroom",
+        "baths": "1",
+        "rent": "$1225.00"
+    },
+    {
+        "address": "401 E. University, Champaign",
+        "url": "https://ugroupcu.com/property-details/401-e-university-champaign",
+        "beds": "Luxury 1 Bedroom (589 sq feet)",
+        "baths": "1",
+        "rent": "$1425.00"
+    },
+    {
+        "address": "401 E. University, Champaign",
+        "url": "https://ugroupcu.com/property-details/401-e-university-champaign",
+        "beds": "Luxury 1 Bedroom (617 sq feet)",
+        "baths": "1",
+        "rent": "$1460.00"
+    },
+    {
+        "address": "401 E. University, Champaign",
+        "url": "https://ugroupcu.com/property-details/401-e-university-champaign",
+        "beds": "Luxury 1 Bedroom (740 sq feet)",
+        "baths": "1",
+        "rent": "$1590.00"
+    },
+    {
         "address": "302-310 S. 1st-Midtown Plaza, Champaign",
         "url": "https://ugroupcu.com/property-details/302-310-s-1st-midtown-plaza-champaign",
         "beds": "Luxury 1 Bedroom",
@@ -133,90 +217,6 @@
         "rent": "$1095.00"
     },
     {
-        "address": "511-513 S. Elm, Champaign",
-        "url": "https://ugroupcu.com/property-details/511-513-s-elm-champaign",
-        "beds": "2 bedrooms",
-        "baths": "1",
-        "rent": "$447.50"
-    },
-    {
-        "address": "505 S. First, Champaign",
-        "url": "https://ugroupcu.com/property-details/505-s-first",
-        "beds": "4 Bedroom",
-        "baths": "2",
-        "rent": "$790.00"
-    },
-    {
-        "address": "505 S. First, Champaign",
-        "url": "https://ugroupcu.com/property-details/505-s-first",
-        "beds": "2 Bedroom",
-        "baths": "1",
-        "rent": "$920.00"
-    },
-    {
-        "address": "505 S. First, Champaign",
-        "url": "https://ugroupcu.com/property-details/505-s-first",
-        "beds": "3 Bedroom",
-        "baths": "2",
-        "rent": "$930.00"
-    },
-    {
-        "address": "1009 W. Clark, Urbana",
-        "url": "https://ugroupcu.com/property-details/1009-w-clark-urbana",
-        "beds": "2 Bedroom",
-        "baths": "1",
-        "rent": "$558.00"
-    },
-    {
-        "address": "409 W. Green, Champaign",
-        "url": "https://ugroupcu.com/property-details/409-w-green-champaign",
-        "beds": "1 bedroom",
-        "baths": "1",
-        "rent": "$1225.00"
-    },
-    {
-        "address": "401 E. University, Champaign",
-        "url": "https://ugroupcu.com/property-details/401-e-university-champaign",
-        "beds": "Luxury 1 Bedroom (589 sq feet)",
-        "baths": "1",
-        "rent": "$1425.00"
-    },
-    {
-        "address": "401 E. University, Champaign",
-        "url": "https://ugroupcu.com/property-details/401-e-university-champaign",
-        "beds": "Luxury 1 Bedroom (617 sq feet)",
-        "baths": "1",
-        "rent": "$1460.00"
-    },
-    {
-        "address": "401 E. University, Champaign",
-        "url": "https://ugroupcu.com/property-details/401-e-university-champaign",
-        "beds": "Luxury 1 Bedroom (740 sq feet)",
-        "baths": "1",
-        "rent": "$1590.00"
-    },
-    {
-        "address": "412 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
-        "beds": "Studio",
-        "baths": "1",
-        "rent": "$1440.00"
-    },
-    {
-        "address": "412 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
-        "beds": "1 Bedroom Layout A",
-        "baths": "1",
-        "rent": "$1750.00"
-    },
-    {
-        "address": "412 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
-        "beds": "1 Bedroom Layout D",
-        "baths": "1",
-        "rent": "$0.00"
-    },
-    {
         "address": "1010 W. Clark, Urbana",
         "url": "https://ugroupcu.com/property-details/1010-w-clark-urbana",
         "beds": "2 Bedroom",
@@ -259,11 +259,25 @@
         "rent": "$530.00"
     },
     {
+        "address": "1007 W. Main, Urbana",
+        "url": "https://ugroupcu.com/property-details/1007-w-main-urbana",
+        "beds": "1 bedroom",
+        "baths": "1",
+        "rent": "$1475.00"
+    },
+    {
+        "address": "1007 W. Main, Urbana",
+        "url": "https://ugroupcu.com/property-details/1007-w-main-urbana",
+        "beds": "2 bedrooms",
+        "baths": "1",
+        "rent": "$820.00"
+    },
+    {
         "address": "502 E. Healey, Champaign",
         "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
         "beds": "2 Bedroom \u2013 Layout A",
         "baths": "2",
-        "rent": "$0.00"
+        "rent": "$1125.00"
     },
     {
         "address": "502 E. Healey, Champaign",
@@ -301,27 +315,6 @@
         "rent": "$0.00"
     },
     {
-        "address": "1007 W. Main, Urbana",
-        "url": "https://ugroupcu.com/property-details/1007-w-main-urbana",
-        "beds": "1 bedroom",
-        "baths": "1",
-        "rent": "$1475.00"
-    },
-    {
-        "address": "1007 W. Main, Urbana",
-        "url": "https://ugroupcu.com/property-details/1007-w-main-urbana",
-        "beds": "2 bedrooms",
-        "baths": "1",
-        "rent": "$820.00"
-    },
-    {
-        "address": "604 W. Stoughton, Urbana",
-        "url": "https://ugroupcu.com/property-details/604-w-stoughton-urbana",
-        "beds": "2 Bedroom",
-        "baths": "2",
-        "rent": "$720.00"
-    },
-    {
         "address": "1008 W. Main, Urbana",
         "url": "https://ugroupcu.com/property-details/1008-w-main-urbana",
         "beds": "Luxury 1 Bedroom",
@@ -332,13 +325,6 @@
         "address": "1008 W. Main, Urbana",
         "url": "https://ugroupcu.com/property-details/1008-w-main-urbana",
         "beds": "Luxury 2 Bedroom",
-        "baths": "1",
-        "rent": "$820.00"
-    },
-    {
-        "address": "1004 W. Main, Urbana",
-        "url": "https://ugroupcu.com/property-details/1004-w-main-urbana",
-        "beds": "2 Bedroom",
         "baths": "1",
         "rent": "$820.00"
     },
@@ -357,10 +343,24 @@
         "rent": "$883.00"
     },
     {
+        "address": "1004 W. Main, Urbana",
+        "url": "https://ugroupcu.com/property-details/1004-w-main-urbana",
+        "beds": "2 Bedroom",
+        "baths": "1",
+        "rent": "$820.00"
+    },
+    {
         "address": "610 W. Stoughton, Urbana",
         "url": "https://ugroupcu.com/property-details/610-w-stoughton-urbana",
         "beds": "1 Bedroom",
         "baths": "1",
         "rent": "$900.00"
+    },
+    {
+        "address": "604 W. Stoughton, Urbana",
+        "url": "https://ugroupcu.com/property-details/604-w-stoughton-urbana",
+        "beds": "2 Bedroom",
+        "baths": "2",
+        "rent": "$720.00"
     }
 ]

@@ -1,28 +1,28 @@
 [
     {
         "address": "505 S. Fifth - The Station",
-        "url": "https://jsmliving.com/node/243607?bedrooms=1&unittype=505F-1-1-A1",
+        "url": "https://jsmliving.com/index.php/node/243607?bedrooms=1&unittype=505F-1-1-A1",
         "beds": "1 Beds",
         "baths": "1 Bath",
         "rent": "$950-1950/Unit"
     },
     {
         "address": "505 S. Fifth - The Station",
-        "url": "https://jsmliving.com/node/243607?bedrooms=4&unittype=505F-4-4-D1",
+        "url": "https://jsmliving.com/index.php/node/243607?bedrooms=4&unittype=505F-4-4-D1",
         "beds": "4 Beds",
         "baths": "4 Bath",
         "rent": "$3800/Unit"
     },
     {
         "address": "1105 W. Oregon",
-        "url": "https://jsmliving.com/node/250066?bedrooms=0&unittype=1105O-0-1-STANDARD",
+        "url": "https://jsmliving.com/index.php/node/250066?bedrooms=0&unittype=1105O-0-1-STANDARD",
         "beds": "0 Beds",
         "baths": "1 Bath",
         "rent": "$925/Unit"
     },
     {
         "address": "1105 W. Oregon",
-        "url": "https://jsmliving.com/node/250066?bedrooms=1&unittype=1105O-1-1-STANDARD",
+        "url": "https://jsmliving.com/index.php/node/250066?bedrooms=1&unittype=1105O-1-1-STANDARD",
         "beds": "1 Beds",
         "baths": "1 Bath",
         "rent": "$995/Unit"
@@ -36,7 +36,7 @@
     },
     {
         "address": "1107 W. Oregon",
-        "url": "https://jsmliving.com/node/250071?bedrooms=0&unittype=1107O-0-1-STANDARD",
+        "url": "https://jsmliving.com/index.php/node/250071?bedrooms=0&unittype=1107O-0-1-STANDARD",
         "beds": "0 Beds",
         "baths": "1 Bath",
         "rent": "$925/Unit"
@@ -50,21 +50,21 @@
     },
     {
         "address": "1108 W. Nevada",
-        "url": "https://jsmliving.com/node/250075?bedrooms=0&unittype=1108N-0-1-STANDARD",
+        "url": "https://jsmliving.com/index.php/node/250075?bedrooms=0&unittype=1108N-0-1-STANDARD",
         "beds": "0 Beds",
         "baths": "1 Bath",
         "rent": "$905/Unit"
     },
     {
         "address": "1108 W. Nevada",
-        "url": "https://jsmliving.com/node/250075?bedrooms=1&unittype=1108N-1-1-STANDARD",
+        "url": "https://jsmliving.com/index.php/node/250075?bedrooms=1&unittype=1108N-1-1-STANDARD",
         "beds": "1 Beds",
         "baths": "1 Bath",
         "rent": "$940/Unit"
     },
     {
         "address": "1108 W. Nevada",
-        "url": "https://jsmliving.com/node/250075?bedrooms=3&unittype=1108N-3-1-STANDARD",
+        "url": "https://jsmliving.com/index.php/node/250075?bedrooms=3&unittype=1108N-3-1-STANDARD",
         "beds": "3 Beds",
         "baths": "1 Bath",
         "rent": "$1245/Unit"

@@ -1,15 +1,7 @@
 [
     {
-        "address": "606 E Stoughton, Champaign, IL 61820",
-        "rent": "$809",
-        "beds": "4 beds",
-        "baths": "2 baths",
-        "sq_ft": "316 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/51abe5dc-1227-42a8-8387-f6c30931f26c"
-    },
-    {
         "address": "405 E Stoughton, Champaign, IL 61820",
-        "rent": "$1,629",
+        "rent": "$1,589",
         "beds": "1 bed",
         "baths": "1 bath",
         "sq_ft": "575 sqft.",
@@ -17,19 +9,11 @@
     },
     {
         "address": "615 S Wright, Champaign, IL 61820",
-        "rent": "$1,069",
-        "beds": "2 beds",
-        "baths": "1 bath",
-        "sq_ft": "380 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/4a082673-1670-4091-8aff-3b1a871539ce"
-    },
-    {
-        "address": "805 W Green Street, 303 S Busey Avenue, Urbana, IL 61801",
-        "rent": "$1,039",
-        "beds": "1 bed",
-        "baths": "1 bath",
-        "sq_ft": "N/A",
-        "url": "https://www.smilestudentliving.com/listings/detail/f67e11f6-b435-4250-8f83-b0d88694a534"
+        "rent": "-",
+        "beds": "4 beds",
+        "baths": "3 baths",
+        "sq_ft": "1,051 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/6807ca06-d317-49b4-a2ab-253126665538"
     },
     {
         "address": "107 E Springfield Avenue, Champaign, IL 61820",
@@ -48,12 +32,20 @@
         "url": "https://www.smilestudentliving.com/listings/detail/6e60de37-fba3-4abb-8f93-71b8e3c4b274"
     },
     {
-        "address": "104 N Lincoln Ave, Urbana, IL 61801",
-        "rent": "$469",
+        "address": "606 E Stoughton, Champaign, IL 61820",
+        "rent": "$809",
         "beds": "4 beds",
         "baths": "2 baths",
-        "sq_ft": "867 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/4d8effee-63a0-4d2a-a8c0-7c4e1c62c11f"
+        "sq_ft": "316 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/51abe5dc-1227-42a8-8387-f6c30931f26c"
+    },
+    {
+        "address": "615 S Wright, Champaign, IL 61820",
+        "rent": "$1,069",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sq_ft": "380 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/4a082673-1670-4091-8aff-3b1a871539ce"
     },
     {
         "address": "608 E Chalmers St, Champaign, IL 61820",
@@ -64,6 +56,14 @@
         "url": "https://www.smilestudentliving.com/listings/detail/7698c9a7-0c35-4c63-856a-db8896e48175"
     },
     {
+        "address": "805 W Green Street, 303 S Busey Avenue, Urbana, IL 61801",
+        "rent": "$1,039",
+        "beds": "1 bed",
+        "baths": "1 bath",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/f67e11f6-b435-4250-8f83-b0d88694a534"
+    },
+    {
         "address": "107 E Healey Street, Champaign, IL 61820",
         "rent": "$1,359",
         "beds": "1 bed",
@@ -72,12 +72,12 @@
         "url": "https://www.smilestudentliving.com/listings/detail/b81694b6-355d-40fc-a166-91de3d994540"
     },
     {
-        "address": "615 S Wright, Champaign, IL 61820",
-        "rent": "-",
+        "address": "104 N Lincoln Ave, Urbana, IL 61801",
+        "rent": "$469",
         "beds": "4 beds",
-        "baths": "3 baths",
-        "sq_ft": "1,051 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/6807ca06-d317-49b4-a2ab-253126665538"
+        "baths": "2 baths",
+        "sq_ft": "867 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/4d8effee-63a0-4d2a-a8c0-7c4e1c62c11f"
     },
     {
         "address": "507 E White, Champaign, IL 61820",
@@ -88,36 +88,12 @@
         "url": "https://www.smilestudentliving.com/listings/detail/15937bce-0a92-448c-924f-3aa3312c7f50"
     },
     {
-        "address": "512 E Clark, Champaign, IL 61820",
-        "rent": "$1,049",
-        "beds": "1 bed",
-        "baths": "1 bath",
-        "sq_ft": "380 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/4fff0614-ecab-42f5-9cce-c403972fd2f3"
-    },
-    {
-        "address": "106 S Gregory Street, Urbana, IL 61801",
-        "rent": "$639",
-        "beds": "4 beds",
-        "baths": "2 baths",
-        "sq_ft": "930 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/3db8f156-3a95-49e8-8229-4f4b3624cdd9"
-    },
-    {
         "address": "52 E Armory, Champaign, IL 61820",
         "rent": "$859",
         "beds": "2 beds",
         "baths": "2 baths",
         "sq_ft": "670 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/8a461701-a4b4-4cd9-99e4-83c97cf8fcb2"
-    },
-    {
-        "address": "804 W Illinois Street, Urbana, IL 61801",
-        "rent": "$869",
-        "beds": "2 beds",
-        "baths": "2 baths",
-        "sq_ft": "696 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/eefae600-ec50-4771-9e0f-1e47e5ecd925"
     },
     {
         "address": "408 E Healey St, Champaign, IL 61820",
@@ -128,6 +104,14 @@
         "url": "https://www.smilestudentliving.com/listings/detail/99b82671-7a69-4991-81f1-00d4802e4fbe"
     },
     {
+        "address": "512 E Clark, Champaign, IL 61820",
+        "rent": "$1,049",
+        "beds": "1 bed",
+        "baths": "1 bath",
+        "sq_ft": "380 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/4fff0614-ecab-42f5-9cce-c403972fd2f3"
+    },
+    {
         "address": "405 E Stoughton, Champaign, IL 61820",
         "rent": "$1,000",
         "beds": "3 beds",
@@ -136,20 +120,36 @@
         "url": "https://www.smilestudentliving.com/listings/detail/0b41fdb2-74b6-4118-b5f1-4a86dbc9b9ab"
     },
     {
-        "address": "405 E Stoughton, Champaign, IL 61820",
-        "rent": "$1,139",
-        "beds": "2 beds",
-        "baths": "2 baths",
-        "sq_ft": "890 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/2afa07a2-f141-4123-8df8-9784a3e7a677"
-    },
-    {
         "address": "615 S Wright, Champaign, IL 61820",
         "rent": "$955",
         "beds": "3 beds",
         "baths": "2 baths",
         "sq_ft": "300 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/1be27feb-5746-4a03-8f6f-8e8a3146ad00"
+    },
+    {
+        "address": "106 S Gregory Street, Urbana, IL 61801",
+        "rent": "$639",
+        "beds": "4 beds",
+        "baths": "2 baths",
+        "sq_ft": "930 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/3db8f156-3a95-49e8-8229-4f4b3624cdd9"
+    },
+    {
+        "address": "804 W Illinois Street, Urbana, IL 61801",
+        "rent": "$869",
+        "beds": "2 beds",
+        "baths": "2 baths",
+        "sq_ft": "696 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/eefae600-ec50-4771-9e0f-1e47e5ecd925"
+    },
+    {
+        "address": "405 E Stoughton, Champaign, IL 61820",
+        "rent": "$1,139",
+        "beds": "2 beds",
+        "baths": "2 baths",
+        "sq_ft": "890 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/2afa07a2-f141-4123-8df8-9784a3e7a677"
     },
     {
         "address": "510 E. White Street, Champaign, IL 61820",
@@ -168,14 +168,6 @@
         "url": "https://www.smilestudentliving.com/listings/detail/7d51ebf6-bd6b-4bca-afba-dd59a32dbd24"
     },
     {
-        "address": "1010 W Stoughton, Urbana, IL 61801",
-        "rent": "$679",
-        "beds": "2 beds",
-        "baths": "1 bath",
-        "sq_ft": "672 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/25786ba9-6002-4aaf-9f06-3cf04a36f039"
-    },
-    {
         "address": "52 E Armory, Champaign, IL 61820",
         "rent": "$1,229",
         "beds": "1 bed",
@@ -190,5 +182,13 @@
         "baths": "2 baths",
         "sq_ft": "957 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/df5bf94e-8ce5-418d-839d-3623501d7151"
+    },
+    {
+        "address": "1010 W Stoughton, Urbana, IL 61801",
+        "rent": "$679",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sq_ft": "672 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/25786ba9-6002-4aaf-9f06-3cf04a36f039"
     }
 ]

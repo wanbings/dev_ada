@@ -1,15 +1,49 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  /* Modern Dark Mode / Premium Aesthetic */
+  --navy: #0f172a;
+  --navy-light: #1e293b;
+  --navy-hover: #334155;
+  
+  --accent: #6366f1; /* Indigo accent */
+  --accent-hover: #4f46e5;
+  
+  --text-on-dark: #ffffff;
+  --text-dark: #f8fafc;
+  --text-muted: #94a3b8;
+  
+  --border: rgba(255, 255, 255, 0.08);
+  
+  --r: 16px;
+  --r-pill: 9999px;
+  
+  --bg: #020617;
+  --bg-alt: #0f172a;
+  
+  --card: rgba(15, 23, 42, 0.6);
+  
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
+  
+  --hero-bg: radial-gradient(circle at 50% 0%, #1e293b 0%, #020617 80%);
+}
 
 /* Base minimal styles */
 body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #0f172a;
+  background-color: var(--bg);
+  color: var(--text-dark);
+  font-family: 'Outfit', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
-* {
+*, *::before, *::after {
   box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
 }
