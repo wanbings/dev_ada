@@ -4,69 +4,79 @@
         "url": "https://jsmliving.com/index.php/node/243607?bedrooms=1&unittype=505F-1-1-A1",
         "beds": "1 Beds",
         "baths": "1 Bath",
-        "rent": "$950-1950/Unit"
+        "rent": "$950-1950/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2024-12/C01%20Updated%20-%20with%20Sign.jpg?itok=sIJkbGpB"
     },
     {
         "address": "505 S. Fifth - The Station",
         "url": "https://jsmliving.com/index.php/node/243607?bedrooms=4&unittype=505F-4-4-D1",
         "beds": "4 Beds",
         "baths": "4 Bath",
-        "rent": "$3800/Unit"
+        "rent": "$3800/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2024-12/C01%20Updated%20-%20with%20Sign.jpg?itok=sIJkbGpB"
     },
     {
         "address": "1105 W. Oregon",
         "url": "https://jsmliving.com/index.php/node/250066?bedrooms=0&unittype=1105O-0-1-STANDARD",
         "beds": "0 Beds",
         "baths": "1 Bath",
-        "rent": "$925/Unit"
+        "rent": "$925/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/1105%20W%20Oregon%20St%20Urbana%20IL-large-003-003-Exterior-1500x1000-72dpi.png?itok=rkIU6Suj"
     },
     {
         "address": "1105 W. Oregon",
         "url": "https://jsmliving.com/index.php/node/250066?bedrooms=1&unittype=1105O-1-1-STANDARD",
         "beds": "1 Beds",
         "baths": "1 Bath",
-        "rent": "$995/Unit"
+        "rent": "$995/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/1105%20W%20Oregon%20St%20Urbana%20IL-large-003-003-Exterior-1500x1000-72dpi.png?itok=rkIU6Suj"
     },
     {
         "address": "1105 W. Oregon",
         "url": "https://jsmliving.com/node/250066?bedrooms=2&unittype=1105O-2-1-STANDARD",
         "beds": "2 Beds",
         "baths": "1 Bath",
-        "rent": "$1050/Unit"
+        "rent": "$1050/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/1105%20W%20Oregon%20St%20Urbana%20IL-large-003-003-Exterior-1500x1000-72dpi.png?itok=rkIU6Suj"
     },
     {
         "address": "1107 W. Oregon",
         "url": "https://jsmliving.com/index.php/node/250071?bedrooms=0&unittype=1107O-0-1-STANDARD",
         "beds": "0 Beds",
         "baths": "1 Bath",
-        "rent": "$925/Unit"
+        "rent": "$925/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201107%20W%20Oregon%20St%20Urbana%20IL-large-001-001-Exterior-1500x1000-72dpi.png?itok=Xy5OmBu3"
     },
     {
         "address": "1107 W. Oregon",
         "url": "https://jsmliving.com/node/250071?bedrooms=2&unittype=1107O-2-1-STANDARD",
         "beds": "2 Beds",
         "baths": "1 Bath",
-        "rent": "$1050/Unit"
+        "rent": "$1050/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201107%20W%20Oregon%20St%20Urbana%20IL-large-001-001-Exterior-1500x1000-72dpi.png?itok=Xy5OmBu3"
     },
     {
         "address": "1108 W. Nevada",
         "url": "https://jsmliving.com/index.php/node/250075?bedrooms=0&unittype=1108N-0-1-STANDARD",
         "beds": "0 Beds",
         "baths": "1 Bath",
-        "rent": "$905/Unit"
+        "rent": "$905/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201108%20W%20Nevada%20St%20Urbana%20IL-large-002-005-Exterior-1500x1000-72dpi.jpg?itok=pe0iNiDA"
     },
     {
         "address": "1108 W. Nevada",
         "url": "https://jsmliving.com/index.php/node/250075?bedrooms=1&unittype=1108N-1-1-STANDARD",
         "beds": "1 Beds",
         "baths": "1 Bath",
-        "rent": "$940/Unit"
+        "rent": "$940/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201108%20W%20Nevada%20St%20Urbana%20IL-large-002-005-Exterior-1500x1000-72dpi.jpg?itok=pe0iNiDA"
     },
     {
         "address": "1108 W. Nevada",
         "url": "https://jsmliving.com/index.php/node/250075?bedrooms=3&unittype=1108N-3-1-STANDARD",
         "beds": "3 Beds",
         "baths": "1 Bath",
-        "rent": "$1245/Unit"
+        "rent": "$1245/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201108%20W%20Nevada%20St%20Urbana%20IL-large-002-005-Exterior-1500x1000-72dpi.jpg?itok=pe0iNiDA"
     }
 ]

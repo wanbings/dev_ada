@@ -1,56 +1,12 @@
 [
     {
-        "address": "405 E Stoughton, Champaign, IL 61820",
-        "rent": "$1,589",
-        "beds": "1 bed",
-        "baths": "1 bath",
-        "sq_ft": "575 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/82573308-b45a-472d-985f-c6c7d91bf79b",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "615 S Wright, Champaign, IL 61820",
-        "rent": "-",
-        "beds": "4 beds",
-        "baths": "3 baths",
-        "sq_ft": "1,051 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/6807ca06-d317-49b4-a2ab-253126665538",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "107 E Springfield Avenue, Champaign, IL 61820",
-        "rent": "$709",
-        "beds": "2 beds",
-        "baths": "1 bath",
-        "sq_ft": "580 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/c453095e-4cf6-41ca-b84a-cf6654734035",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "107 E Springfield Avenue, Champaign, IL 61820",
-        "rent": "$839",
-        "beds": "2 beds",
-        "baths": "2 baths",
-        "sq_ft": "780 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/6e60de37-fba3-4abb-8f93-71b8e3c4b274",
-        "leasing_company": "Smile Student Living"
-    },
-    {
         "address": "606 E Stoughton, Champaign, IL 61820",
         "rent": "$809",
         "beds": "4 beds",
         "baths": "2 baths",
         "sq_ft": "316 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/51abe5dc-1227-42a8-8387-f6c30931f26c",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "615 S Wright, Champaign, IL 61820",
-        "rent": "$1,069",
-        "beds": "2 beds",
-        "baths": "1 bath",
-        "sq_ft": "380 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/4a082673-1670-4091-8aff-3b1a871539ce",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/d13298b7-adee-46ed-8796-ce6a9255c7a7/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -60,6 +16,7 @@
         "baths": "4 baths",
         "sq_ft": "1,317 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/7698c9a7-0c35-4c63-856a-db8896e48175",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/7efb36ea-d100-4562-94a4-1e07b2ad3426/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -69,15 +26,27 @@
         "baths": "1 bath",
         "sq_ft": "N/A",
         "url": "https://www.smilestudentliving.com/listings/detail/f67e11f6-b435-4250-8f83-b0d88694a534",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/3ea82d2e-b0a5-4b77-8931-3a3196d36f04/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
-        "address": "107 E Healey Street, Champaign, IL 61820",
-        "rent": "$1,359",
-        "beds": "1 bed",
+        "address": "615 S Wright, Champaign, IL 61820",
+        "rent": "$1,069",
+        "beds": "2 beds",
         "baths": "1 bath",
-        "sq_ft": "511 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/b81694b6-355d-40fc-a166-91de3d994540",
+        "sq_ft": "380 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/4a082673-1670-4091-8aff-3b1a871539ce",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/505f9af1-3cfb-4443-b20f-6e4e68a35dbc/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "107 E Springfield Avenue, Champaign, IL 61820",
+        "rent": "$839",
+        "beds": "2 beds",
+        "baths": "2 baths",
+        "sq_ft": "780 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/6e60de37-fba3-4abb-8f93-71b8e3c4b274",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/4db71f7d-aafc-44f7-9c19-e117d311a46a/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -87,24 +56,27 @@
         "baths": "2 baths",
         "sq_ft": "867 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/4d8effee-63a0-4d2a-a8c0-7c4e1c62c11f",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/06be36d4-e538-426e-bc95-e46332b33ec4/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
-        "address": "507 E White, Champaign, IL 61820",
-        "rent": "$1,300",
+        "address": "405 E Stoughton, Champaign, IL 61820",
+        "rent": "$1,589",
         "beds": "1 bed",
         "baths": "1 bath",
-        "sq_ft": "476 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/15937bce-0a92-448c-924f-3aa3312c7f50",
+        "sq_ft": "575 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/82573308-b45a-472d-985f-c6c7d91bf79b",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/e874d352-ec7c-41be-b0a6-86171d77b5c5/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
-        "address": "52 E Armory, Champaign, IL 61820",
-        "rent": "$859",
-        "beds": "2 beds",
-        "baths": "2 baths",
-        "sq_ft": "670 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/8a461701-a4b4-4cd9-99e4-83c97cf8fcb2",
+        "address": "107 E Healey Street, Champaign, IL 61820",
+        "rent": "$1,359",
+        "beds": "1 bed",
+        "baths": "1 bath",
+        "sq_ft": "511 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/b81694b6-355d-40fc-a166-91de3d994540",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/8bce9ad6-56e9-4b07-a648-a252c5d4283e/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -114,42 +86,7 @@
         "baths": "1 bath",
         "sq_ft": "660 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/99b82671-7a69-4991-81f1-00d4802e4fbe",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "512 E Clark, Champaign, IL 61820",
-        "rent": "$1,049",
-        "beds": "1 bed",
-        "baths": "1 bath",
-        "sq_ft": "380 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/4fff0614-ecab-42f5-9cce-c403972fd2f3",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "405 E Stoughton, Champaign, IL 61820",
-        "rent": "$1,000",
-        "beds": "3 beds",
-        "baths": "3 baths",
-        "sq_ft": "N/A",
-        "url": "https://www.smilestudentliving.com/listings/detail/0b41fdb2-74b6-4118-b5f1-4a86dbc9b9ab",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "615 S Wright, Champaign, IL 61820",
-        "rent": "$955",
-        "beds": "3 beds",
-        "baths": "2 baths",
-        "sq_ft": "300 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/1be27feb-5746-4a03-8f6f-8e8a3146ad00",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "106 S Gregory Street, Urbana, IL 61801",
-        "rent": "$639",
-        "beds": "4 beds",
-        "baths": "2 baths",
-        "sq_ft": "930 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/3db8f156-3a95-49e8-8229-4f4b3624cdd9",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/bf68088a-b758-432b-953a-d41f87a84bc7/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -159,15 +96,47 @@
         "baths": "2 baths",
         "sq_ft": "696 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/eefae600-ec50-4771-9e0f-1e47e5ecd925",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/d079f2b2-c674-4bd9-890f-d43b3d1ac76b/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
-        "address": "405 E Stoughton, Champaign, IL 61820",
-        "rent": "$1,139",
-        "beds": "2 beds",
+        "address": "106 S Gregory Street, Urbana, IL 61801",
+        "rent": "$639",
+        "beds": "4 beds",
         "baths": "2 baths",
-        "sq_ft": "890 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/2afa07a2-f141-4123-8df8-9784a3e7a677",
+        "sq_ft": "930 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/3db8f156-3a95-49e8-8229-4f4b3624cdd9",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/dc1e3e65-33f4-4935-a062-db5fafe7d04d/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "507 E White, Champaign, IL 61820",
+        "rent": "$1,300",
+        "beds": "1 bed",
+        "baths": "1 bath",
+        "sq_ft": "476 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/15937bce-0a92-448c-924f-3aa3312c7f50",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/b78d42e2-5f8d-48ab-b214-5b9ffee04cdd/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "615 S Wright, Champaign, IL 61820",
+        "rent": "N/A",
+        "beds": "N/A",
+        "baths": "N/A",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/6807ca06-d317-49b4-a2ab-253126665538",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/981e8695-90cc-4a81-9c23-0e448321dbf0/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "107 E Springfield Avenue, Champaign, IL 61820",
+        "rent": "N/A",
+        "beds": "N/A",
+        "baths": "N/A",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/c453095e-4cf6-41ca-b84a-cf6654734035",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/c1fc8814-adf7-4dd5-a26d-dd68cde7453e/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -177,6 +146,7 @@
         "baths": "1 bath",
         "sq_ft": "N/A",
         "url": "https://www.smilestudentliving.com/listings/detail/47bf456f-efca-4802-8858-6740160bbd99",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/40064539-dbab-4d5a-8cff-6e28a1874421/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -186,24 +156,7 @@
         "baths": "3 baths",
         "sq_ft": "330 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/7d51ebf6-bd6b-4bca-afba-dd59a32dbd24",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "52 E Armory, Champaign, IL 61820",
-        "rent": "$1,229",
-        "beds": "1 bed",
-        "baths": "1 bath",
-        "sq_ft": "457 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/cc3aae34-7ff9-4b6d-aee5-4853213087b3",
-        "leasing_company": "Smile Student Living"
-    },
-    {
-        "address": "207 S Fifth, Champaign, IL 61820",
-        "rent": "$659",
-        "beds": "4 beds",
-        "baths": "2 baths",
-        "sq_ft": "957 sqft.",
-        "url": "https://www.smilestudentliving.com/listings/detail/df5bf94e-8ce5-418d-839d-3623501d7151",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/dd250b32-1114-4d19-b3b3-ff0fed25e21b/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -213,6 +166,77 @@
         "baths": "1 bath",
         "sq_ft": "672 sqft.",
         "url": "https://www.smilestudentliving.com/listings/detail/25786ba9-6002-4aaf-9f06-3cf04a36f039",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/4cf21bf1-fc6f-49d7-9f97-e58274597c50/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "207 S Fifth, Champaign, IL 61820",
+        "rent": "$659",
+        "beds": "4 beds",
+        "baths": "2 baths",
+        "sq_ft": "957 sqft.",
+        "url": "https://www.smilestudentliving.com/listings/detail/df5bf94e-8ce5-418d-839d-3623501d7151",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/e3ae4690-7b34-4d0a-a138-5b757f489948/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "512 E Clark, Champaign, IL 61820",
+        "rent": "N/A",
+        "beds": "N/A",
+        "baths": "N/A",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/4fff0614-ecab-42f5-9cce-c403972fd2f3",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/acd32210-75ff-47f3-830d-7bb92407ac7d/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "52 E Armory, Champaign, IL 61820",
+        "rent": "N/A",
+        "beds": "N/A",
+        "baths": "N/A",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/8a461701-a4b4-4cd9-99e4-83c97cf8fcb2",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/ad83a874-bc3c-4e4c-946a-f82cd4d78956/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "405 E Stoughton, Champaign, IL 61820",
+        "rent": "N/A",
+        "beds": "N/A",
+        "baths": "N/A",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/0b41fdb2-74b6-4118-b5f1-4a86dbc9b9ab",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/db4d43d5-ec08-4480-85e9-c472a4a4832f/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "405 E Stoughton, Champaign, IL 61820",
+        "rent": "N/A",
+        "beds": "N/A",
+        "baths": "N/A",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/2afa07a2-f141-4123-8df8-9784a3e7a677",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/7d191f54-0567-46d3-ab96-73d605efccf3/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "615 S Wright, Champaign, IL 61820",
+        "rent": "N/A",
+        "beds": "N/A",
+        "baths": "N/A",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/1be27feb-5746-4a03-8f6f-8e8a3146ad00",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/6ae0186e-6978-43e7-b449-0990ba37936b/medium.png",
+        "leasing_company": "Smile Student Living"
+    },
+    {
+        "address": "52 E Armory, Champaign, IL 61820",
+        "rent": "N/A",
+        "beds": "N/A",
+        "baths": "N/A",
+        "sq_ft": "N/A",
+        "url": "https://www.smilestudentliving.com/listings/detail/cc3aae34-7ff9-4b6d-aee5-4853213087b3",
+        "image": "https://images.cdn.appfolio.com/fairlawn/images/28aa1d6c-8a34-440b-bd39-c25a1ac1e15b/medium.png",
         "leasing_company": "Smile Student Living"
     },
     {
@@ -221,6 +245,7 @@
         "beds": "Studio",
         "baths": "1",
         "rent": "$1470.00",
+        "image": "https://img.youtube.com/vi/E3Un_20ItdE/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -229,6 +254,7 @@
         "beds": "1 Bedroom",
         "baths": "1",
         "rent": "$1575.00",
+        "image": "https://img.youtube.com/vi/E3Un_20ItdE/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -237,6 +263,7 @@
         "beds": "2 Bedroom \u2013 Layout D",
         "baths": "2",
         "rent": "$1075.00",
+        "image": "https://img.youtube.com/vi/E3Un_20ItdE/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -245,6 +272,7 @@
         "beds": "2 Bedroom \u2013 Layout A",
         "baths": "2",
         "rent": "$1045.00",
+        "image": "https://img.youtube.com/vi/E3Un_20ItdE/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -253,6 +281,7 @@
         "beds": "2 Bedroom \u2013 Layout C",
         "baths": "2",
         "rent": "$0.00",
+        "image": "https://img.youtube.com/vi/E3Un_20ItdE/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -261,78 +290,7 @@
         "beds": "2 Bedroom \u2013 Layout B",
         "baths": "2",
         "rent": "$1085.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "407 E. University, Champaign",
-        "url": "https://ugroupcu.com/property-details/407-e-university-champaign",
-        "beds": "Luxury 1 Bedroom",
-        "baths": "1",
-        "rent": "$1360.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "407 E. University, Champaign",
-        "url": "https://ugroupcu.com/property-details/407-e-university-champaign",
-        "beds": "Luxury 1 Bedroom",
-        "baths": "1",
-        "rent": "$1490.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "504 E. Stoughton, Champaign",
-        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
-        "beds": "Studio \u2013 1st Floor (exterior)",
-        "baths": "1",
-        "rent": "$1390.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "504 E. Stoughton, Champaign",
-        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
-        "beds": "Studio B",
-        "baths": "1",
-        "rent": "$1590.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "504 E. Stoughton, Champaign",
-        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
-        "beds": "Studio A",
-        "baths": "1",
-        "rent": "$1520.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "504 E. Stoughton, Champaign",
-        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
-        "beds": "Studio C",
-        "baths": "1",
-        "rent": "$1475.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "412 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
-        "beds": "Studio",
-        "baths": "1",
-        "rent": "$1440.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "412 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
-        "beds": "1 Bedroom Layout A",
-        "baths": "1",
-        "rent": "$1750.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "412 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
-        "beds": "1 Bedroom Layout D",
-        "baths": "1",
-        "rent": "$0.00",
+        "image": "https://img.youtube.com/vi/E3Un_20ItdE/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -341,46 +299,7 @@
         "beds": "2 Bedroom",
         "baths": "1",
         "rent": "$558.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "505 S. First, Champaign",
-        "url": "https://ugroupcu.com/property-details/505-s-first",
-        "beds": "4 Bedroom",
-        "baths": "2",
-        "rent": "$790.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "505 S. First, Champaign",
-        "url": "https://ugroupcu.com/property-details/505-s-first",
-        "beds": "2 Bedroom",
-        "baths": "1",
-        "rent": "$920.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "505 S. First, Champaign",
-        "url": "https://ugroupcu.com/property-details/505-s-first",
-        "beds": "3 Bedroom",
-        "baths": "2",
-        "rent": "$930.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "511-513 S. Elm, Champaign",
-        "url": "https://ugroupcu.com/property-details/511-513-s-elm-champaign",
-        "beds": "2 bedrooms",
-        "baths": "1",
-        "rent": "$447.50",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "409 W. Green, Champaign",
-        "url": "https://ugroupcu.com/property-details/409-w-green-champaign",
-        "beds": "1 bedroom",
-        "baths": "1",
-        "rent": "$1225.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/2264b5e5c684c8d4768098a5bff333cb1009-clark--1.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -389,6 +308,7 @@
         "beds": "Luxury 1 Bedroom (589 sq feet)",
         "baths": "1",
         "rent": "$1425.00",
+        "image": "https://img.youtube.com/vi/ZzQTCzwxR4o/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -397,6 +317,7 @@
         "beds": "Luxury 1 Bedroom (617 sq feet)",
         "baths": "1",
         "rent": "$1460.00",
+        "image": "https://img.youtube.com/vi/ZzQTCzwxR4o/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -405,6 +326,52 @@
         "beds": "Luxury 1 Bedroom (740 sq feet)",
         "baths": "1",
         "rent": "$1590.00",
+        "image": "https://img.youtube.com/vi/ZzQTCzwxR4o/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "504 E. Stoughton, Champaign",
+        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
+        "beds": "Studio \u2013 1st Floor (exterior)",
+        "baths": "1",
+        "rent": "$1390.00",
+        "image": "https://img.youtube.com/vi/x3NVicdrbII/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "504 E. Stoughton, Champaign",
+        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
+        "beds": "Studio B",
+        "baths": "1",
+        "rent": "$1590.00",
+        "image": "https://img.youtube.com/vi/x3NVicdrbII/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "504 E. Stoughton, Champaign",
+        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
+        "beds": "Studio A",
+        "baths": "1",
+        "rent": "$1520.00",
+        "image": "https://img.youtube.com/vi/x3NVicdrbII/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "504 E. Stoughton, Champaign",
+        "url": "https://ugroupcu.com/property-details/504-e-stoughton-champaign",
+        "beds": "Studio C",
+        "baths": "1",
+        "rent": "$1475.00",
+        "image": "https://img.youtube.com/vi/x3NVicdrbII/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "409 W. Green, Champaign",
+        "url": "https://ugroupcu.com/property-details/409-w-green-champaign",
+        "beds": "1 bedroom",
+        "baths": "1",
+        "rent": "$1225.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/02360240bbe199a127205d6e60acdfcb3.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -413,6 +380,7 @@
         "beds": "Luxury 1 Bedroom",
         "baths": "1",
         "rent": "$1540.00",
+        "image": "https://img.youtube.com/vi/JXJ24PPzVwM/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -421,6 +389,7 @@
         "beds": "Penthouse Studio",
         "baths": "1",
         "rent": "$1575.00",
+        "image": "https://img.youtube.com/vi/JXJ24PPzVwM/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -429,6 +398,7 @@
         "beds": "2 Bedroom \u2013 Layout A, C, M",
         "baths": "2",
         "rent": "$895.00",
+        "image": "https://img.youtube.com/vi/JXJ24PPzVwM/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -437,6 +407,7 @@
         "beds": "2 Bedroom \u2013 Suite Layout",
         "baths": "2",
         "rent": "$995.00",
+        "image": "https://img.youtube.com/vi/JXJ24PPzVwM/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -445,6 +416,7 @@
         "beds": "2 Bedroom \u2013 Layout H",
         "baths": "2",
         "rent": "$995.00",
+        "image": "https://img.youtube.com/vi/JXJ24PPzVwM/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -453,6 +425,7 @@
         "beds": "2 Bedroom \u2013 Layout I",
         "baths": "2",
         "rent": "$1045.00",
+        "image": "https://img.youtube.com/vi/JXJ24PPzVwM/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -461,6 +434,88 @@
         "beds": "2 Bedroom \u2013 Penthouse Private Rooftop Terrace",
         "baths": "2",
         "rent": "$1095.00",
+        "image": "https://img.youtube.com/vi/JXJ24PPzVwM/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "511-513 S. Elm, Champaign",
+        "url": "https://ugroupcu.com/property-details/511-513-s-elm-champaign",
+        "beds": "2 bedrooms",
+        "baths": "1",
+        "rent": "$447.50",
+        "image": "https://ugroupcu.com/property_images/property/thumb/fac2a9eb317e30007a6d5987879649ae20190620_150734.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "505 S. First, Champaign",
+        "url": "https://ugroupcu.com/property-details/505-s-first",
+        "beds": "4 Bedroom",
+        "baths": "2",
+        "rent": "$790.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/e3d94ad222a6f6b32c4afc35a8c4f300505-first-201-balcony-018.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "505 S. First, Champaign",
+        "url": "https://ugroupcu.com/property-details/505-s-first",
+        "beds": "2 Bedroom",
+        "baths": "1",
+        "rent": "$920.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/e3d94ad222a6f6b32c4afc35a8c4f300505-first-201-balcony-018.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "505 S. First, Champaign",
+        "url": "https://ugroupcu.com/property-details/505-s-first",
+        "beds": "3 Bedroom",
+        "baths": "2",
+        "rent": "$930.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/e3d94ad222a6f6b32c4afc35a8c4f300505-first-201-balcony-018.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "407 E. University, Champaign",
+        "url": "https://ugroupcu.com/property-details/407-e-university-champaign",
+        "beds": "Luxury 1 Bedroom",
+        "baths": "1",
+        "rent": "$1360.00",
+        "image": "https://img.youtube.com/vi/Yt1-FpQuWiE/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "407 E. University, Champaign",
+        "url": "https://ugroupcu.com/property-details/407-e-university-champaign",
+        "beds": "Luxury 1 Bedroom",
+        "baths": "1",
+        "rent": "$1490.00",
+        "image": "https://img.youtube.com/vi/Yt1-FpQuWiE/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "412 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
+        "beds": "Studio",
+        "baths": "1",
+        "rent": "$1440.00",
+        "image": "https://img.youtube.com/vi/GT_tHAboxgw/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "412 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
+        "beds": "1 Bedroom Layout A",
+        "baths": "1",
+        "rent": "$1750.00",
+        "image": "https://img.youtube.com/vi/GT_tHAboxgw/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "412 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/412-e-healey-champaign",
+        "beds": "1 Bedroom Layout D",
+        "baths": "1",
+        "rent": "$0.00",
+        "image": "https://img.youtube.com/vi/GT_tHAboxgw/hqdefault.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -469,46 +524,7 @@
         "beds": "2 Bedroom",
         "baths": "1",
         "rent": "$603.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "908 W. Stoughton, Urbana",
-        "url": "https://ugroupcu.com/property-details/908-w-stoughton-urbana",
-        "beds": "2 bedrooms",
-        "baths": "1",
-        "rent": "$845.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "1007 W. Clark, Urbana",
-        "url": "https://ugroupcu.com/property-details/1007-w-clark-urbana",
-        "beds": "1 Bedroom",
-        "baths": "1",
-        "rent": "$1040.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "1007 W. Clark, Urbana",
-        "url": "https://ugroupcu.com/property-details/1007-w-clark-urbana",
-        "beds": "2 Bedroom- B",
-        "baths": "1",
-        "rent": "$675.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "1007 W. Clark, Urbana",
-        "url": "https://ugroupcu.com/property-details/1007-w-clark-urbana",
-        "beds": "2 Bedroom- A",
-        "baths": "1",
-        "rent": "$725.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "1007 W. Clark, Urbana",
-        "url": "https://ugroupcu.com/property-details/1007-w-clark-urbana",
-        "beds": "3 Bedroom",
-        "baths": "1",
-        "rent": "$530.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/44295629bef288da5c3f77e63461328c1010-building-2.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -517,6 +533,7 @@
         "beds": "1 bedroom",
         "baths": "1",
         "rent": "$1475.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/0743d0770a633bc8e15143694b5a9195outside.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -525,70 +542,43 @@
         "beds": "2 bedrooms",
         "baths": "1",
         "rent": "$820.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/0743d0770a633bc8e15143694b5a9195outside.jpg",
         "leasing_company": "University Group"
     },
     {
-        "address": "502 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
-        "beds": "2 Bedroom \u2013 Layout A",
-        "baths": "2",
-        "rent": "$1125.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "502 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
-        "beds": "Studio A",
+        "address": "1007 W. Clark, Urbana",
+        "url": "https://ugroupcu.com/property-details/1007-w-clark-urbana",
+        "beds": "1 Bedroom",
         "baths": "1",
-        "rent": "$1435.00",
+        "rent": "$1040.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/0b1ecde4405553c3dab7a4c01052f33a1.jpg",
         "leasing_company": "University Group"
     },
     {
-        "address": "502 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
-        "beds": "2 Bedroom \u2013 Layout C",
-        "baths": "2",
-        "rent": "$0.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "502 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
-        "beds": "Luxury 1 BR",
+        "address": "1007 W. Clark, Urbana",
+        "url": "https://ugroupcu.com/property-details/1007-w-clark-urbana",
+        "beds": "2 Bedroom- B",
         "baths": "1",
-        "rent": "$0.00",
+        "rent": "$675.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/0b1ecde4405553c3dab7a4c01052f33a1.jpg",
         "leasing_company": "University Group"
     },
     {
-        "address": "502 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
-        "beds": "2 Bedroom \u2013 Layout B",
-        "baths": "2",
-        "rent": "$0.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "502 E. Healey, Champaign",
-        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
-        "beds": "2 Bedroom \u2013 Layout D",
-        "baths": "2",
-        "rent": "$0.00",
-        "leasing_company": "University Group"
-    },
-    {
-        "address": "1008 W. Main, Urbana",
-        "url": "https://ugroupcu.com/property-details/1008-w-main-urbana",
-        "beds": "Luxury 1 Bedroom",
+        "address": "1007 W. Clark, Urbana",
+        "url": "https://ugroupcu.com/property-details/1007-w-clark-urbana",
+        "beds": "2 Bedroom- A",
         "baths": "1",
-        "rent": "$1490.00",
+        "rent": "$725.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/0b1ecde4405553c3dab7a4c01052f33a1.jpg",
         "leasing_company": "University Group"
     },
     {
-        "address": "1008 W. Main, Urbana",
-        "url": "https://ugroupcu.com/property-details/1008-w-main-urbana",
-        "beds": "Luxury 2 Bedroom",
+        "address": "1007 W. Clark, Urbana",
+        "url": "https://ugroupcu.com/property-details/1007-w-clark-urbana",
+        "beds": "3 Bedroom",
         "baths": "1",
-        "rent": "$820.00",
+        "rent": "$530.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/0b1ecde4405553c3dab7a4c01052f33a1.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -597,6 +587,7 @@
         "beds": "1 Bedroom",
         "baths": "1",
         "rent": "$1341.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/6a6ce7ebbaa5911d9315cc4d6790ee3653-balcony.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -605,6 +596,16 @@
         "beds": "2 Bedroom",
         "baths": "2",
         "rent": "$883.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/6a6ce7ebbaa5911d9315cc4d6790ee3653-balcony.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "908 W. Stoughton, Urbana",
+        "url": "https://ugroupcu.com/property-details/908-w-stoughton-urbana",
+        "beds": "2 bedrooms",
+        "baths": "1",
+        "rent": "$845.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/8344fe8da9d9e16adacfe6e038dc8647908-stoughton-living-016.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -613,6 +614,7 @@
         "beds": "2 Bedroom",
         "baths": "1",
         "rent": "$820.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/1df1ecf7ae44e9c2020d0359e8d8b3aa1004-main-304-br1-002.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -621,6 +623,7 @@
         "beds": "1 Bedroom",
         "baths": "1",
         "rent": "$900.00",
+        "image": "https://ugroupcu.com/property_images/unit_thumb/a253874138c77aab9f6bb1a8c9229e60610-bath-2.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -629,6 +632,79 @@
         "beds": "2 Bedroom",
         "baths": "2",
         "rent": "$720.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/55357aaa08d43d0e36314a9aca0c0a72604-backyard-2.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "502 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
+        "beds": "2 Bedroom \u2013 Layout A",
+        "baths": "2",
+        "rent": "$1125.00",
+        "image": "https://img.youtube.com/vi/bRCgwz6XxVc/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "502 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
+        "beds": "Studio A",
+        "baths": "1",
+        "rent": "$1435.00",
+        "image": "https://img.youtube.com/vi/bRCgwz6XxVc/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "502 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
+        "beds": "2 Bedroom \u2013 Layout C",
+        "baths": "2",
+        "rent": "$0.00",
+        "image": "https://img.youtube.com/vi/bRCgwz6XxVc/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "502 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
+        "beds": "Luxury 1 BR",
+        "baths": "1",
+        "rent": "$0.00",
+        "image": "https://img.youtube.com/vi/bRCgwz6XxVc/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "502 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
+        "beds": "2 Bedroom \u2013 Layout B",
+        "baths": "2",
+        "rent": "$0.00",
+        "image": "https://img.youtube.com/vi/bRCgwz6XxVc/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "502 E. Healey, Champaign",
+        "url": "https://ugroupcu.com/property-details/502-e-healey-champaign",
+        "beds": "2 Bedroom \u2013 Layout D",
+        "baths": "2",
+        "rent": "$0.00",
+        "image": "https://img.youtube.com/vi/bRCgwz6XxVc/hqdefault.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "1008 W. Main, Urbana",
+        "url": "https://ugroupcu.com/property-details/1008-w-main-urbana",
+        "beds": "Luxury 1 Bedroom",
+        "baths": "1",
+        "rent": "$1490.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/ddf43cda5598fea024409d0a48d87a421008-main-210-living-015.jpg",
+        "leasing_company": "University Group"
+    },
+    {
+        "address": "1008 W. Main, Urbana",
+        "url": "https://ugroupcu.com/property-details/1008-w-main-urbana",
+        "beds": "Luxury 2 Bedroom",
+        "baths": "1",
+        "rent": "$820.00",
+        "image": "https://ugroupcu.com/property_images/property/thumb/ddf43cda5598fea024409d0a48d87a421008-main-210-living-015.jpg",
         "leasing_company": "University Group"
     },
     {
@@ -637,6 +713,7 @@
         "beds": "1 Beds",
         "baths": "1 Bath",
         "rent": "$950-1950/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2024-12/C01%20Updated%20-%20with%20Sign.jpg?itok=sIJkbGpB",
         "leasing_company": "JSM Living"
     },
     {
@@ -645,6 +722,7 @@
         "beds": "4 Beds",
         "baths": "4 Bath",
         "rent": "$3800/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2024-12/C01%20Updated%20-%20with%20Sign.jpg?itok=sIJkbGpB",
         "leasing_company": "JSM Living"
     },
     {
@@ -653,6 +731,7 @@
         "beds": "0 Beds",
         "baths": "1 Bath",
         "rent": "$925/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/1105%20W%20Oregon%20St%20Urbana%20IL-large-003-003-Exterior-1500x1000-72dpi.png?itok=rkIU6Suj",
         "leasing_company": "JSM Living"
     },
     {
@@ -661,6 +740,7 @@
         "beds": "1 Beds",
         "baths": "1 Bath",
         "rent": "$995/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/1105%20W%20Oregon%20St%20Urbana%20IL-large-003-003-Exterior-1500x1000-72dpi.png?itok=rkIU6Suj",
         "leasing_company": "JSM Living"
     },
     {
@@ -669,6 +749,7 @@
         "beds": "2 Beds",
         "baths": "1 Bath",
         "rent": "$1050/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/1105%20W%20Oregon%20St%20Urbana%20IL-large-003-003-Exterior-1500x1000-72dpi.png?itok=rkIU6Suj",
         "leasing_company": "JSM Living"
     },
     {
@@ -677,6 +758,7 @@
         "beds": "0 Beds",
         "baths": "1 Bath",
         "rent": "$925/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201107%20W%20Oregon%20St%20Urbana%20IL-large-001-001-Exterior-1500x1000-72dpi.png?itok=Xy5OmBu3",
         "leasing_company": "JSM Living"
     },
     {
@@ -685,6 +767,7 @@
         "beds": "2 Beds",
         "baths": "1 Bath",
         "rent": "$1050/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201107%20W%20Oregon%20St%20Urbana%20IL-large-001-001-Exterior-1500x1000-72dpi.png?itok=Xy5OmBu3",
         "leasing_company": "JSM Living"
     },
     {
@@ -693,6 +776,7 @@
         "beds": "0 Beds",
         "baths": "1 Bath",
         "rent": "$905/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201108%20W%20Nevada%20St%20Urbana%20IL-large-002-005-Exterior-1500x1000-72dpi.jpg?itok=pe0iNiDA",
         "leasing_company": "JSM Living"
     },
     {
@@ -701,6 +785,7 @@
         "beds": "1 Beds",
         "baths": "1 Bath",
         "rent": "$940/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201108%20W%20Nevada%20St%20Urbana%20IL-large-002-005-Exterior-1500x1000-72dpi.jpg?itok=pe0iNiDA",
         "leasing_company": "JSM Living"
     },
     {
@@ -709,6 +794,7 @@
         "beds": "3 Beds",
         "baths": "1 Bath",
         "rent": "$1245/Unit",
+        "image": "https://jsmliving.com/sites/default/files/styles/large/public/2025-11/EDITED%201108%20W%20Nevada%20St%20Urbana%20IL-large-002-005-Exterior-1500x1000-72dpi.jpg?itok=pe0iNiDA",
         "leasing_company": "JSM Living"
     },
     {
@@ -718,78 +804,7 @@
         "baths": "2",
         "rent": "$100",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "105 E Armory Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/105-e-armory-ave",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$500",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "309 E Springfield Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/309-e-springfield-ave",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1500",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "901 S Second St",
-        "url": "https://www.greenstrealty.com/properties/profile/901-s-second-st",
-        "beds": "4",
-        "baths": "N/A",
-        "rent": "$825",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "105 E Armory Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/105-e-armory-ave",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$500",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "112 E John St",
-        "url": "https://www.greenstrealty.com/properties/profile/112-e-john-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1450",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "901 S Second St",
-        "url": "https://www.greenstrealty.com/properties/profile/901-s-second-st",
-        "beds": "4",
-        "baths": "N/A",
-        "rent": "$825",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "112 E John St",
-        "url": "https://www.greenstrealty.com/properties/profile/112-e-john-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1450",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "309 E Springfield Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/309-e-springfield-ave",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1500",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18298/1000/Loft+54+Champaign+Exterior+4+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -799,33 +814,87 @@
         "baths": "2",
         "rent": "$100",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18298/1000/Loft+54+Champaign+Exterior+4+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
-        "address": "901 S Fourth St",
-        "url": "https://www.greenstrealty.com/properties/profile/901-s-fourth-st",
-        "beds": "1",
-        "baths": "1",
-        "rent": "$1650",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "",
-        "url": "https://www.greenstrealty.com/properties/profile/1007-w-university-ave",
+        "address": "112 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/112-e-john-st",
         "beds": "1",
         "baths": "N/A",
-        "rent": "$1550",
+        "rent": "$1450",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18253/1000/112-E-John_1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
-        "address": "901 S Fourth St",
-        "url": "https://www.greenstrealty.com/properties/profile/901-s-fourth-st",
-        "beds": "1",
-        "baths": "1",
-        "rent": "$1650",
+        "address": "901 S Second St",
+        "url": "https://www.greenstrealty.com/properties/profile/901-s-second-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$825",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17291/1000/901+s+second.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "105 E Armory Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/105-e-armory-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$500",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18725/1000/Screenshot+2025-10-02+at+2.13.14+PM.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "112 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/112-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1450",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18253/1000/112-E-John_1.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "901 S Second St",
+        "url": "https://www.greenstrealty.com/properties/profile/901-s-second-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17291/1000/901+s+second.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "105 E Armory Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/105-e-armory-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$500",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18725/1000/Screenshot+2025-10-02+at+2.13.14+PM.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "309 E Springfield Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/309-e-springfield-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1500",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14202/1000/ICON+Render.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "309 E Springfield Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/309-e-springfield-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1500",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14202/1000/ICON+Render.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -835,6 +904,7 @@
         "baths": "N/A",
         "rent": "$947",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16542/1000/907-third-champaign-il-primary-photo.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -844,6 +914,57 @@
         "baths": "N/A",
         "rent": "$947",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16542/1000/907-third-champaign-il-primary-photo.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "1005 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/1005-s-first-st",
+        "beds": "N/A",
+        "baths": "N/A",
+        "rent": "$995",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/10378/1000/IMG_4078_crop_900_750.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "1009 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/1009-s-first-st",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$550",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15712/1000/1009+s+first+good.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "901 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/901-s-fourth-st",
+        "beds": "1",
+        "baths": "1",
+        "rent": "$1650",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13084/1000/901+s+fourth.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "1005 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/1005-s-first-st",
+        "beds": "N/A",
+        "baths": "N/A",
+        "rent": "$995",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/10378/1000/IMG_4078_crop_900_750.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "1009 S First St",
+        "url": "https://www.greenstrealty.com/properties/profile/1009-s-first-st",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$550",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15712/1000/1009+s+first+good.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -853,60 +974,27 @@
         "baths": "N/A",
         "rent": "$1550",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14213/1000/1007+University+2.jpg",
         "leasing_company": "Green St Realty"
     },
     {
-        "address": "1005 S First St",
-        "url": "https://www.greenstrealty.com/properties/profile/1005-s-first-st",
-        "beds": "N/A",
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/1007-w-university-ave",
+        "beds": "1",
         "baths": "N/A",
-        "rent": "$995",
+        "rent": "$1550",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14213/1000/1007+University+2.jpg",
         "leasing_company": "Green St Realty"
     },
     {
-        "address": "1005 S First St",
-        "url": "https://www.greenstrealty.com/properties/profile/1005-s-first-st",
-        "beds": "N/A",
-        "baths": "N/A",
-        "rent": "$995",
+        "address": "901 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/901-s-fourth-st",
+        "beds": "1",
+        "baths": "1",
+        "rent": "$1650",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "1009 S First St",
-        "url": "https://www.greenstrealty.com/properties/profile/1009-s-first-st",
-        "beds": "3",
-        "baths": "N/A",
-        "rent": "$550",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "1009 S First St",
-        "url": "https://www.greenstrealty.com/properties/profile/1009-s-first-st",
-        "beds": "3",
-        "baths": "N/A",
-        "rent": "$550",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "101 E Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/101-e-green-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$725",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "101 E Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/101-e-green-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$725",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13084/1000/901+s+fourth.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -916,6 +1004,7 @@
         "baths": "N/A",
         "rent": "$725",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18280/1000/102-gregory8.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -925,24 +1014,17 @@
         "baths": "N/A",
         "rent": "$725",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18280/1000/102-gregory8.jpg",
         "leasing_company": "Green St Realty"
     },
     {
-        "address": "102 S Lincoln Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/102-s-lincoln-ave",
+        "address": "101 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/101-e-green-st",
         "beds": "2",
-        "baths": "1",
-        "rent": "$637",
+        "baths": "N/A",
+        "rent": "$725",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "102 S Lincoln Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/102-s-lincoln-ave",
-        "beds": "2",
-        "baths": "1",
-        "rent": "$637",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17666/1000/418_101+E+Green+Exterior+2.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -952,6 +1034,27 @@
         "baths": "4",
         "rent": "$900",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18267/1000/IMG_8708.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "101 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/101-e-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17666/1000/418_101+E+Green+Exterior+2.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "102 S Lincoln Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/102-s-lincoln-ave",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$637",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18551/1000/IMG_9465.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -961,6 +1064,7 @@
         "baths": "4",
         "rent": "$900",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18267/1000/IMG_8708.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -970,6 +1074,87 @@
         "baths": "N/A",
         "rent": "$1275",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15705/1000/IMG_0521.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "102 S Lincoln Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/102-s-lincoln-ave",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$637",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18551/1000/IMG_9465.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "108 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/108-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/5958/1000/108-west-green-street-champaign-il-1-bdr-profile.png",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "108 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/108-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$725",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/5958/1000/108-west-green-street-champaign-il-1-bdr-profile.png",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "104 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/104-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1575",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13142/1000/Front.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "1106 S Euclid St",
+        "url": "https://www.greenstrealty.com/properties/profile/1106-s-euclid-st",
+        "beds": "4",
+        "baths": "2",
+        "rent": "$725",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18555/1000/IMG_9488.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "106 E Armory Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/106-e-armory-ave",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$1350",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15706/1000/IMG_0541.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "106 E Armory Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/106-e-armory-ave",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$1350",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15706/1000/IMG_0541.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "105 S Fourth St",
+        "url": "https://www.greenstrealty.com/properties/profile/105-s-fourth-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1125",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14546/1000/105+S+Fourth+St+Ext.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -979,6 +1164,7 @@
         "baths": "N/A",
         "rent": "$1275",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15705/1000/IMG_0521.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -988,69 +1174,7 @@
         "baths": "N/A",
         "rent": "$1575",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "104 E John St",
-        "url": "https://www.greenstrealty.com/properties/profile/104-e-john-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1575",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "105 S Fourth St",
-        "url": "https://www.greenstrealty.com/properties/profile/105-s-fourth-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1125",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "105 S Fourth St",
-        "url": "https://www.greenstrealty.com/properties/profile/105-s-fourth-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1125",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "106 E Armory Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/106-e-armory-ave",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$1350",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "108 W Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/108-w-green-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$725",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "106 E Armory Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/106-e-armory-ave",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$1350",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "108 W Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/108-w-green-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$725",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13142/1000/Front.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1060,33 +1184,7 @@
         "baths": "2",
         "rent": "$725",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "1106 S Euclid St",
-        "url": "https://www.greenstrealty.com/properties/profile/1106-s-euclid-st",
-        "beds": "4",
-        "baths": "2",
-        "rent": "$725",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "111 S Busey Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/111-s-busey-ave",
-        "beds": "3",
-        "baths": "N/A",
-        "rent": "$925",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "111 S Busey Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/111-s-busey-ave",
-        "beds": "3",
-        "baths": "N/A",
-        "rent": "$925",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18555/1000/IMG_9488.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1096,6 +1194,37 @@
         "baths": "N/A",
         "rent": "$925",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15598/1000/elmbusey82.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "111 S Busey Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/111-s-busey-ave",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15614/1000/111+S+Busey.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "201 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/201-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1325",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13649/1000/exterior+2.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "202 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/202-e-white-st",
+        "beds": "2",
+        "baths": "2",
+        "rent": "$762",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18557/1000/IMG_9454_edit.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1105,6 +1234,7 @@
         "baths": "N/A",
         "rent": "$925",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15598/1000/elmbusey82.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1114,15 +1244,17 @@
         "baths": "N/A",
         "rent": "$1325",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13649/1000/exterior+2.jpg",
         "leasing_company": "Green St Realty"
     },
     {
-        "address": "201 W Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/201-w-green-st",
-        "beds": "1",
+        "address": "111 S Busey Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/111-s-busey-ave",
+        "beds": "3",
         "baths": "N/A",
-        "rent": "$1325",
+        "rent": "$925",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15614/1000/111+S+Busey.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1132,15 +1264,7 @@
         "baths": "2",
         "rent": "$762",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "202 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/202-e-white-st",
-        "beds": "2",
-        "baths": "2",
-        "rent": "$762",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18557/1000/IMG_9454_edit.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1150,6 +1274,7 @@
         "baths": "N/A",
         "rent": "$1150",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/12767/1000/IMG_0298_crop_900_750.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1159,15 +1284,7 @@
         "baths": "N/A",
         "rent": "$1150",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "208 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/208-e-clark-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1450",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/12767/1000/IMG_0298_crop_900_750.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1177,15 +1294,7 @@
         "baths": "N/A",
         "rent": "$762",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "208 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/208-e-white-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$762",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/8459/1000/DSC_0142_crop_799_666.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1195,6 +1304,17 @@
         "baths": "N/A",
         "rent": "$1450",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18232/1000/img_8621.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "208 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/208-e-white-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$762",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/8459/1000/DSC_0142_crop_799_666.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1204,6 +1324,17 @@
         "baths": "N/A",
         "rent": "$647",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13128/1000/Exterior+Clark.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "208 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/208-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1450",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18232/1000/img_8621.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1213,6 +1344,7 @@
         "baths": "N/A",
         "rent": "$647",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13128/1000/Exterior+Clark.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1222,6 +1354,7 @@
         "baths": "N/A",
         "rent": "$1125",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14547/1000/209+E+University+Front+Main.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1231,6 +1364,7 @@
         "baths": "N/A",
         "rent": "$1125",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14547/1000/209+E+University+Front+Main.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1240,6 +1374,67 @@
         "baths": "N/A",
         "rent": "$762",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13138/1000/IMG_20200203_160634312_HDR.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "212 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/212-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18384/1000/Screen+Shot+2025-01-09+at+1.55.50+PM.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "211 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/211-e-clark-st",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$575",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14396/1000/Clark+Front.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "211 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/211-e-clark-st",
+        "beds": "2",
+        "baths": "1",
+        "rent": "$575",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14396/1000/Clark+Front.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "212 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/212-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18384/1000/Screen+Shot+2025-01-09+at+1.55.50+PM.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "213 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/213-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1325",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/7264/1000/_MG_0016.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "213 W Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/213-w-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1325",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/7264/1000/_MG_0016.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1249,60 +1444,7 @@
         "baths": "N/A",
         "rent": "$762",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "211 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/211-e-clark-st",
-        "beds": "2",
-        "baths": "1",
-        "rent": "$575",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "212 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/212-e-white-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1275",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "212 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/212-e-white-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1275",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "211 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/211-e-clark-st",
-        "beds": "2",
-        "baths": "1",
-        "rent": "$575",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "213 W Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/213-w-green-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1325",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "213 W Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/213-w-green-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1325",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/13138/1000/IMG_20200203_160634312_HDR.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1312,6 +1454,7 @@
         "baths": "N/A",
         "rent": "$1195",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18548/1000/IMG_9455_crop_683_473.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1321,6 +1464,7 @@
         "baths": "N/A",
         "rent": "$1195",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18548/1000/IMG_9455_crop_683_473.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1330,6 +1474,7 @@
         "baths": "N/A",
         "rent": "$1125",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15699/1000/IMG_3574-1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1339,24 +1484,7 @@
         "baths": "N/A",
         "rent": "$1125",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "303 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/303-e-white-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1225",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "303 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/303-e-white-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1225",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15699/1000/IMG_3574-1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1366,6 +1494,37 @@
         "baths": "1.5",
         "rent": "$1095",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15672/1000/3axnelkfew50biqhj05gaaqketuyl8qlnvazrc3l0i2x3wnwhu.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "303 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/303-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1225",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14550/1000/303+E+White+St+Ext.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "303 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/303-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1225",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14550/1000/303+E+White+St+Ext.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "304 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/304-e-clark-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$562",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18744/1000/304+Clark+redo+E.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1375,6 +1534,7 @@
         "baths": "1.5",
         "rent": "$1095",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15672/1000/3axnelkfew50biqhj05gaaqketuyl8qlnvazrc3l0i2x3wnwhu.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1384,15 +1544,7 @@
         "baths": "N/A",
         "rent": "$562",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "304 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/304-e-clark-st",
-        "beds": "4",
-        "baths": "N/A",
-        "rent": "$562",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18744/1000/304+Clark+redo+E.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1402,6 +1554,7 @@
         "baths": "N/A",
         "rent": "$533",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17750/1000/418_306.5+E+Green+1-1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1411,6 +1564,147 @@
         "baths": "1",
         "rent": "$1200",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18767/1000/306C+exterior+6-2020.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "306 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/306-e-clark-st",
+        "beds": "1",
+        "baths": "1",
+        "rent": "$1200",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18767/1000/306C+exterior+6-2020.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "310 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/310-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1095",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/8450/1000/DSC_0127_crop_799_666.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "308 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/308-e-clark-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$862",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14552/1000/308.5+E+Clark+Ext.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "308 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/308-e-clark-st",
+        "beds": "4",
+        "baths": "N/A",
+        "rent": "$862",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14552/1000/308.5+E+Clark+Ext.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "310 E Clark St",
+        "url": "https://www.greenstrealty.com/properties/profile/310-e-clark-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1095",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/8450/1000/DSC_0127_crop_799_666.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/32-e-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$1000",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14769/1000/lcm103020-23+-+first+banner+image.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "405 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/405-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1295",
+        "sq_ft": "N/A",
+        "image": "https://cdn.userway.org/widgetapp/images/spin_wh.svg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "405 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/405-e-white-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1295",
+        "sq_ft": "N/A",
+        "image": "https://cdn.userway.org/widgetapp/images/spin_wh.svg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "",
+        "url": "https://www.greenstrealty.com/properties/profile/32-e-green-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$1000",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14769/1000/lcm103020-23+-+first+banner+image.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "501 E University Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/501-e-university-ave",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14555/1000/501+E+University.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "501 E University Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/501-e-university-ave",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$925",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14555/1000/501+E+University.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "503 E Springfield Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/503-e-springfield-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18266/1000/Screen+Shot+2024-10-15+at+2.25.14+PM.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "503 E Springfield Ave",
+        "url": "https://www.greenstrealty.com/properties/profile/503-e-springfield-ave",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1275",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18266/1000/Screen+Shot+2024-10-15+at+2.25.14+PM.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "504 E White St",
+        "url": "https://www.greenstrealty.com/properties/profile/504-e-white-st",
+        "beds": "N/A",
+        "baths": "N/A",
+        "rent": "$895",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17777/1000/418_504+E+White+Exterior+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1420,123 +1714,7 @@
         "baths": "N/A",
         "rent": "$533",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "306 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/306-e-clark-st",
-        "beds": "1",
-        "baths": "1",
-        "rent": "$1200",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "308 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/308-e-clark-st",
-        "beds": "4",
-        "baths": "N/A",
-        "rent": "$862",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "310 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/310-e-clark-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1095",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "310 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/310-e-clark-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1095",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "308 E Clark St",
-        "url": "https://www.greenstrealty.com/properties/profile/308-e-clark-st",
-        "beds": "4",
-        "baths": "N/A",
-        "rent": "$862",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "",
-        "url": "https://www.greenstrealty.com/properties/profile/32-e-green-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$1000",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "",
-        "url": "https://www.greenstrealty.com/properties/profile/32-e-green-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$1000",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "405 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/405-e-white-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1295",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "405 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/405-e-white-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1295",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "501 E University Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/501-e-university-ave",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$925",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "501 E University Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/501-e-university-ave",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$925",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "503 E Springfield Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/503-e-springfield-ave",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1275",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "503 E Springfield Ave",
-        "url": "https://www.greenstrealty.com/properties/profile/503-e-springfield-ave",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1275",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17750/1000/418_306.5+E+Green+1-1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1546,15 +1724,7 @@
         "baths": "N/A",
         "rent": "$895",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "504 E White St",
-        "url": "https://www.greenstrealty.com/properties/profile/504-e-white-st",
-        "beds": "N/A",
-        "baths": "N/A",
-        "rent": "$895",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17777/1000/418_504+E+White+Exterior+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1564,6 +1734,7 @@
         "baths": "N/A",
         "rent": "$1225",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16462/1000/505-s-4th-st-champaign-il-building-photo.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1573,6 +1744,7 @@
         "baths": "N/A",
         "rent": "$1225",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16462/1000/505-s-4th-st-champaign-il-building-photo.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1582,6 +1754,7 @@
         "baths": "N/A",
         "rent": "$1295",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18550/1000/IMG_9463.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1591,6 +1764,7 @@
         "baths": "N/A",
         "rent": "$1295",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18550/1000/IMG_9463.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1600,6 +1774,87 @@
         "baths": "N/A",
         "rent": "$1100",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14556/1000/508+S+First+Ext.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "509 S Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/509-s-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$837",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/10652/1000/1_crop_799_666.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "509 S Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/509-s-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$837",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/10652/1000/1_crop_799_666.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "509 W Main St",
+        "url": "https://www.greenstrealty.com/properties/profile/509-w-main-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18294/1000/509-main8.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "509 W Main St",
+        "url": "https://www.greenstrealty.com/properties/profile/509-w-main-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$825",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18294/1000/509-main8.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "515 Bash Ct",
+        "url": "https://www.greenstrealty.com/properties/profile/515-bash-ct",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$700",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17779/1000/418_515+Bash+Court+Exterior+1.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "515 Bash Ct",
+        "url": "https://www.greenstrealty.com/properties/profile/515-bash-ct",
+        "beds": "3",
+        "baths": "N/A",
+        "rent": "$700",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17779/1000/418_515+Bash+Court+Exterior+1.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "54 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/54-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1300",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14705/1000/54+E+John+Front.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "54 E John St",
+        "url": "https://www.greenstrealty.com/properties/profile/54-e-john-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1300",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14705/1000/54+E+John+Front.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1609,60 +1864,7 @@
         "baths": "N/A",
         "rent": "$1100",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "509 S Elm St",
-        "url": "https://www.greenstrealty.com/properties/profile/509-s-elm-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$837",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "509 S Elm St",
-        "url": "https://www.greenstrealty.com/properties/profile/509-s-elm-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$837",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "509 W Main St",
-        "url": "https://www.greenstrealty.com/properties/profile/509-w-main-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$825",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "509 W Main St",
-        "url": "https://www.greenstrealty.com/properties/profile/509-w-main-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$825",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "515 Bash Ct",
-        "url": "https://www.greenstrealty.com/properties/profile/515-bash-ct",
-        "beds": "3",
-        "baths": "N/A",
-        "rent": "$700",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "515 Bash Ct",
-        "url": "https://www.greenstrealty.com/properties/profile/515-bash-ct",
-        "beds": "3",
-        "baths": "N/A",
-        "rent": "$700",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14556/1000/508+S+First+Ext.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1672,15 +1874,7 @@
         "baths": "N/A",
         "rent": "$612",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "54 E John St",
-        "url": "https://www.greenstrealty.com/properties/profile/54-e-john-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1300",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16929/1000/UIUC-Apartment-Building-658319+copy.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1690,15 +1884,7 @@
         "baths": "N/A",
         "rent": "$612",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "54 E John St",
-        "url": "https://www.greenstrealty.com/properties/profile/54-e-john-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1300",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16929/1000/UIUC-Apartment-Building-658319+copy.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1708,6 +1894,27 @@
         "baths": "N/A",
         "rent": "$1495",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15693/1000/exterior.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "56 1 2 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/56-1-2-e-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1195",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16919/1000/t8fw7pzzr1bw08xtlwyottlsd0t2sihcfdbt0byly06hsf5tyx.jpeg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "56 1 2 E Green St",
+        "url": "https://www.greenstrealty.com/properties/profile/56-1-2-e-green-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1195",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16919/1000/t8fw7pzzr1bw08xtlwyottlsd0t2sihcfdbt0byly06hsf5tyx.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1717,24 +1924,7 @@
         "baths": "N/A",
         "rent": "$1495",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "56 1 2 E Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/56-1-2-e-green-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1195",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "56 1 2 E Green St",
-        "url": "https://www.greenstrealty.com/properties/profile/56-1-2-e-green-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1195",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15693/1000/exterior.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1744,6 +1934,7 @@
         "baths": "N/A",
         "rent": "$825",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/2167/1000/56-e-healey-champaign-1-bdr-profile.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1753,6 +1944,7 @@
         "baths": "N/A",
         "rent": "$825",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/2167/1000/56-e-healey-champaign-1-bdr-profile.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1762,6 +1954,7 @@
         "baths": "N/A",
         "rent": "$1075",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18356/1000/Screen+Shot+2025-01-09+at+1.46.15+PM.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1771,6 +1964,7 @@
         "baths": "N/A",
         "rent": "$1075",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18356/1000/Screen+Shot+2025-01-09+at+1.46.15+PM.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1780,6 +1974,7 @@
         "baths": "N/A",
         "rent": "$825",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/3139/1000/58-e-healey-champaign-1-bdr-profile.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1789,6 +1984,7 @@
         "baths": "N/A",
         "rent": "$825",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/3139/1000/58-e-healey-champaign-1-bdr-profile.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1798,6 +1994,7 @@
         "baths": "N/A",
         "rent": "$950",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15658/1000/psv90dgkny83nbutnx8bkteqcuepu70ezya8miinl3a02do94h.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1807,6 +2004,7 @@
         "baths": "N/A",
         "rent": "$950",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15658/1000/psv90dgkny83nbutnx8bkteqcuepu70ezya8miinl3a02do94h.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1816,6 +2014,7 @@
         "baths": "N/A",
         "rent": "$1300",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15565/1000/609+randolph+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1825,6 +2024,7 @@
         "baths": "N/A",
         "rent": "$1300",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15565/1000/609+randolph+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1834,6 +2034,7 @@
         "baths": "1",
         "rent": "$987",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16463/1000/619-s-wright-st-champaign-il-building-photo.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1843,6 +2044,7 @@
         "baths": "1",
         "rent": "$987",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16463/1000/619-s-wright-st-champaign-il-building-photo.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1852,24 +2054,7 @@
         "baths": "N/A",
         "rent": "$637",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "702 W Elm St",
-        "url": "https://www.greenstrealty.com/properties/profile/702-w-elm-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$612",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "702 W Elm St",
-        "url": "https://www.greenstrealty.com/properties/profile/702-w-elm-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$612",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/11828/1000/IMG_0194+3_crop_750_625_1639750894.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1879,6 +2064,17 @@
         "baths": "N/A",
         "rent": "$637",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/11828/1000/IMG_0194+3_crop_750_625_1639750894.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "702 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/702-w-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17782/1000/418_702+W+Elm+Exterior+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1888,6 +2084,17 @@
         "baths": "N/A",
         "rent": "$612",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17811/1000/418_704+W+Elm+Exterior+1.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "702 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/702-w-elm-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$612",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17782/1000/418_702+W+Elm+Exterior+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1897,6 +2104,7 @@
         "baths": "N/A",
         "rent": "$612",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17811/1000/418_704+W+Elm+Exterior+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1906,6 +2114,17 @@
         "baths": "N/A",
         "rent": "$650",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18295/1000/Screen+Shot+2025-01-03+at+4.38.45+PM.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "712 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/712-w-elm-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$800",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15615/1000/712-w-elm-st-urbana-il-primary-photo.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1915,6 +2134,7 @@
         "baths": "N/A",
         "rent": "$650",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/18295/1000/Screen+Shot+2025-01-03+at+4.38.45+PM.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1924,24 +2144,7 @@
         "baths": "N/A",
         "rent": "$800",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "712 W Elm St",
-        "url": "https://www.greenstrealty.com/properties/profile/712-w-elm-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$800",
-        "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "713 S Sixth St",
-        "url": "https://www.greenstrealty.com/properties/profile/713-s-sixth-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$875",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15615/1000/712-w-elm-st-urbana-il-primary-photo.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1951,6 +2154,7 @@
         "baths": "N/A",
         "rent": "$697",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/11687/1000/IMG_0202+2_crop_750_625.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1960,6 +2164,17 @@
         "baths": "N/A",
         "rent": "$697",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/11687/1000/IMG_0202+2_crop_750_625.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "714 W Elm St",
+        "url": "https://www.greenstrealty.com/properties/profile/714-w-elm-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$895",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15711/1000/714+w+elm.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1969,6 +2184,17 @@
         "baths": "N/A",
         "rent": "$875",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16464/1000/713.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "713 S Sixth St",
+        "url": "https://www.greenstrealty.com/properties/profile/713-s-sixth-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$875",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/16464/1000/713.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1978,15 +2204,7 @@
         "baths": "N/A",
         "rent": "$895",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "714 W Elm St",
-        "url": "https://www.greenstrealty.com/properties/profile/714-w-elm-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$895",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15711/1000/714+w+elm.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -1996,6 +2214,7 @@
         "baths": "N/A",
         "rent": "$612",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17784/1000/418_803+W+Green+Exterior+3.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2005,6 +2224,7 @@
         "baths": "N/A",
         "rent": "$612",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17784/1000/418_803+W+Green+Exterior+3.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2014,6 +2234,7 @@
         "baths": "N/A",
         "rent": "$662",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15710/1000/IMG_0569.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2023,6 +2244,7 @@
         "baths": "N/A",
         "rent": "$662",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15710/1000/IMG_0569.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2032,15 +2254,7 @@
         "baths": "N/A",
         "rent": "$612",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "810 S Oak St",
-        "url": "https://www.greenstrealty.com/properties/profile/810-s-oak-st",
-        "beds": "2",
-        "baths": "N/A",
-        "rent": "$550",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15436/1000/back+exterior.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2050,6 +2264,7 @@
         "baths": "N/A",
         "rent": "$612",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15436/1000/back+exterior.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2059,6 +2274,7 @@
         "baths": "N/A",
         "rent": "$550",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/7406/1000/810-s-oak-street-champaign-4-bdr-profile_crop_750_625.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2068,6 +2284,17 @@
         "baths": "N/A",
         "rent": "$625",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14558/1000/810+W+Iowa+Ext.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "810 S Oak St",
+        "url": "https://www.greenstrealty.com/properties/profile/810-s-oak-st",
+        "beds": "2",
+        "baths": "N/A",
+        "rent": "$550",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/7406/1000/810-s-oak-street-champaign-4-bdr-profile_crop_750_625.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2077,6 +2304,7 @@
         "baths": "N/A",
         "rent": "$625",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/14558/1000/810+W+Iowa+Ext.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2086,6 +2314,7 @@
         "baths": "N/A",
         "rent": "$675",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17602/1000/905+Ext.+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2095,6 +2324,7 @@
         "baths": "N/A",
         "rent": "$675",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17602/1000/905+Ext.+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2104,6 +2334,17 @@
         "baths": "1",
         "rent": "$600",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17806/1000/418_909+S+3rd+Exterior+1.jpg",
+        "leasing_company": "Green St Realty"
+    },
+    {
+        "address": "911 S Locust St",
+        "url": "https://www.greenstrealty.com/properties/profile/911-s-locust-st",
+        "beds": "1",
+        "baths": "N/A",
+        "rent": "$1095",
+        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15619/1000/mjb6kvrg2pl9ibqr3h9g795yhmscv9nuv7wjf71fwyzmjvdsil.jpeg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2113,6 +2354,7 @@
         "baths": "1",
         "rent": "$600",
         "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/17806/1000/418_909+S+3rd+Exterior+1.jpg",
         "leasing_company": "Green St Realty"
     },
     {
@@ -2122,15 +2364,7 @@
         "baths": "N/A",
         "rent": "$1095",
         "sq_ft": "N/A",
-        "leasing_company": "Green St Realty"
-    },
-    {
-        "address": "911 S Locust St",
-        "url": "https://www.greenstrealty.com/properties/profile/911-s-locust-st",
-        "beds": "1",
-        "baths": "N/A",
-        "rent": "$1095",
-        "sq_ft": "N/A",
+        "image": "https://www.greenstrealty.com/image/15619/1000/mjb6kvrg2pl9ibqr3h9g795yhmscv9nuv7wjf71fwyzmjvdsil.jpeg",
         "leasing_company": "Green St Realty"
     }
 ]

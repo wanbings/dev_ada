@@ -428,6 +428,13 @@
 .apt-card-img {
   width: 100%;
   height: 155px;
+  position: relative;
+  overflow: hidden;
+  background-color: var(--bg-alt); /* Default standard dark fallback */
+}
+
+/* Placeholder cloud background */
+.apt-card-img.placeholder {
   background: linear-gradient(
     180deg,
     #87ceeb 0%,
@@ -435,12 +442,10 @@
     #6baa5c 62%,
     #559040 100%
   );
-  position: relative;
-  overflow: hidden;
 }
 
 /* Simple cloud */
-.apt-card-img::before {
+.apt-card-img.placeholder::before {
   content: '';
   position: absolute;
   top: 22%;

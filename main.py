@@ -69,13 +69,23 @@ async def scrape_smile(p):
                 sqft_el = await detail_page.query_selector(".feature.sqft")
                 sqft = await sqft_el.inner_text() if sqft_el else "N/A"
                 
+                og_img = await detail_page.query_selector('meta[property="og:image"]')
+                image = await og_img.get_attribute("content") if og_img else ""
+                if not image:
+                    img_el = await detail_page.query_selector("img")
+                    image = await img_el.get_attribute("src") if img_el else ""
+                if image:
+                    if image.startswith("//"): image = "https:" + image
+                    elif image.startswith("/"): image = "https://www.smilestudentliving.com" + image
+                
                 results.append({
                     "address": item["address"],
                     "rent": rent.strip(),
                     "beds": beds.strip(),
                     "baths": baths.strip(),
                     "sq_ft": sqft.strip(),
-                    "url": item["link"]
+                    "url": item["link"],
+                    "image": image
                 })
                 await detail_page.close()
             except Exception as e:
@@ -144,6 +154,24 @@ async def scrape_ugroup(p):
                 
                 unit_wrappers = detail_soup.select(".tab-content_in_wrapp.tab-cntnt_wrap_btm")
                 
+                # Fetch image once for the property
+                og_img = detail_soup.find("meta", property="og:image")
+                image = og_img["content"] if og_img and og_img.get("content") else ""
+                
+                if image and ("google" in image.lower() or "gstatic" in image.lower() or "logo" in image.lower() or "icon" in image.lower()):
+                    image = ""
+
+                if not image:
+                    for img in detail_soup.select(".property-slider img, .rsImg, img"):
+                        img_src = img.get("src", "")
+                        if img_src and not ("google" in img_src.lower() or "gstatic" in img_src.lower() or "logo" in img_src.lower() or "icon" in img_src.lower()):
+                            image = img_src
+                            break
+
+                if image:
+                    if image.startswith("//"): image = "https:" + image
+                    elif image.startswith("/"): image = "https://ugroupcu.com" + image
+
                 if not unit_wrappers:
                     pass
                 else:
@@ -170,7 +198,8 @@ async def scrape_ugroup(p):
                             "url": item["url"],
                             "beds": beds,
                             "baths": baths,
-                            "rent": rent
+                            "rent": rent,
+                            "image": image
                         })
                 await detail_page.close()
             except Exception as e:
@@ -225,12 +254,19 @@ async def scrape_jsm(p):
             rent_el = article.select_one(".rent_unit")
             rent = rent_el.get_text(strip=True) if rent_el else "N/A"
             
+            img_el = article.find("img")
+            image = img_el["src"] if img_el and img_el.has_attr("src") else ""
+            if image:
+                if image.startswith("//"): image = "https:" + image
+                elif image.startswith("/"): image = "https://jsmliving.com" + image
+            
             results.append({
                 "address": address,
                 "url": url,
                 "beds": beds,
                 "baths": baths,
-                "rent": rent
+                "rent": rent,
+                "image": image
             })
         except Exception as e:
             pass
@@ -311,13 +347,23 @@ async def scrape_gsr(p):
                 sqft_match = re.search(r'([\d,]+)\s*(?:sq\s*ft|square\s*feet)', text_content, re.IGNORECASE)
                 if sqft_match: sqft = sqft_match.group(1)
                 
+                og_img = detail_soup.find("meta", property="og:image")
+                image = og_img["content"] if og_img and og_img.get("content") else ""
+                if not image:
+                    img_el = detail_soup.find("img")
+                    image = img_el["src"] if img_el and img_el.has_attr("src") else ""
+                if image:
+                    if image.startswith("//"): image = "https:" + image
+                    elif image.startswith("/"): image = "https://www.greenstrealty.com" + image
+                
                 results.append({
                     "address": address,
                     "url": item["url"],
                     "beds": beds,
                     "baths": baths,
                     "rent": rent,
-                    "sq_ft": sqft
+                    "sq_ft": sqft,
+                    "image": image
                 })
                 await detail_page.close()
             except Exception as e:
