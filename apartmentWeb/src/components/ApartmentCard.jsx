@@ -4,9 +4,9 @@ export default function ApartmentCard({ apartment }) {
   const { name, beds, baths, sqft, price, management, url, image } = apartment
   const { toggleFavorite, isFavorite } = useFavorites()
 
-  const bedLabel  = beds === 0 ? 'Studio' : `${beds} bed${beds !== 1 ? 's' : ''}`
-  const bathLabel = baths !== null ? `${baths} bath${baths !== 1 ? 's' : ''}` : null
-  const sqftLabel = sqft  !== null ? `${sqft.toLocaleString()} sqft` : null
+  const bedLabel  = beds === null ? 'Beds Unavailable' : beds === 0 ? 'Studio' : `${beds} bed${beds !== 1 ? 's' : ''}`
+  const bathLabel = baths !== null ? `${baths} bath${baths !== 1 ? 's' : ''}` : 'Baths Unavailable'
+  const sqftLabel = sqft  !== null ? `${sqft.toLocaleString()} sqft` : 'Sq Ft Unavailable'
   const priceStr  = price !== null ? `$${price.toLocaleString()}/mo` : 'Contact for price'
 
   // Use name as unique identifier (or address if available)
@@ -50,8 +50,10 @@ export default function ApartmentCard({ apartment }) {
         <div className="apt-card-name">{name}</div>
         <div className="apt-card-details">
           <span>{bedLabel}</span>
-          {bathLabel && <><span>·</span><span>{bathLabel}</span></>}
-          {sqftLabel && <><span>·</span><span>{sqftLabel}</span></>}
+          <span>·</span>
+          <span>{bathLabel}</span>
+          <span>·</span>
+          <span>{sqftLabel}</span>
         </div>
         <div className={`apt-card-price ${price === null ? 'apt-card-price-na' : ''}`}>
           {priceStr}

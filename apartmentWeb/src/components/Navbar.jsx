@@ -1,7 +1,7 @@
 export default function Navbar({ currentPage, onNavigate }) {
   return (
     <nav className="navbar">
-      <div className="navbar-brand">QuadKeys</div>
+      <div className="navbar-brand">QuadKeys 🔑</div>
 
       <div className="navbar-links">
         <button

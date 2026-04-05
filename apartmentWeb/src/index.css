@@ -1,32 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-  /* Lighter Blue Theme */
-  --navy: #5a7a9f;
-  --navy-light: #7a9bbd;
-  --navy-hover: #6a8aad;
+  /* Medium Blue Theme */
+  --navy: #2c3e50;
+  --navy-light: #34495e;
+  --navy-hover: #3d5469;
 
-  --accent: #2980b9; /* Brighter blue accent */
-  --accent-hover: #3498db;
+  --accent: #3498db; /* Blue accent */
+  --accent-hover: #2980b9;
 
-  --text-on-dark: #ffffff;
+  --text-on-dark: #f0f4fa;
   --text-dark: #2c3e50;
   --text-muted: #7f8c8d;
 
-  --border: rgba(90, 122, 159, 0.2);
+  --border: rgba(52, 73, 94, 0.15);
 
   --r: 16px;
   --r-pill: 9999px;
 
   --bg: #ecf0f1;
-  --bg-alt: #d5dfe8;
+  --bg-alt: #bdc3c7;
 
   --card: #ffffff;
 
   --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.15), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
 
-  --hero-bg: linear-gradient(135deg, #7a9bbd 0%, #9fb4cc 100%);
+  --hero-bg: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
 }
 
 /* Base minimal styles */

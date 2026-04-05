@@ -194,10 +194,10 @@ export default function SearchPage() {
         <div className="sidebar-filter">
           <div className="sidebar-filter-label">Sq Ft</div>
           <div className="sidebar-range-row">
-            <input className="sidebar-range-input" type="number" placeholder="Min"
+            <input className="sidebar-range-input" type="number" placeholder="Min" min="0"
               value={filters.sqftMin} onChange={e => set('sqftMin', e.target.value)} />
             <span className="sidebar-range-sep">–</span>
-            <input className="sidebar-range-input" type="number" placeholder="Max"
+            <input className="sidebar-range-input" type="number" placeholder="Max" min="0"
               value={filters.sqftMax} onChange={e => set('sqftMax', e.target.value)} />
           </div>
         </div>
@@ -206,10 +206,10 @@ export default function SearchPage() {
         <div className="sidebar-filter">
           <div className="sidebar-filter-label">Monthly Rent ($)</div>
           <div className="sidebar-range-row">
-            <input className="sidebar-range-input" type="number" placeholder="Min"
+            <input className="sidebar-range-input" type="number" placeholder="Min" min="0"
               value={filters.priceMin} onChange={e => set('priceMin', e.target.value)} />
             <span className="sidebar-range-sep">–</span>
-            <input className="sidebar-range-input" type="number" placeholder="Max"
+            <input className="sidebar-range-input" type="number" placeholder="Max" min="0"
               value={filters.priceMax} onChange={e => set('priceMax', e.target.value)} />
           </div>
         </div>
