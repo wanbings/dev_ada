@@ -125,7 +125,9 @@ export default function SearchPage() {
       })
       .then(data => {
         if (data.status === 'success') {
-          setApartments(parseApartments(data.data))
+          const parsed = parseApartments(data.data);
+          setApartments(parsed);
+          setResults(parsed);
         } else {
           setError(data.message || 'Failed to fetch apartments')
         }
