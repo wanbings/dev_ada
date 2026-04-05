@@ -57,7 +57,7 @@ function applyFilters(apartments, f) {
       if (!match) return false
     }
     if (f.baths !== null) {
-      const match = f.baths === 3 ? apt.baths >= 3 : apt.baths === f.baths
+      const match = f.baths === 4 ? apt.baths >= 4 : apt.baths === f.baths
       if (!match) return false
     }
     if (f.sqftMin !== '') {
@@ -72,8 +72,8 @@ function applyFilters(apartments, f) {
     if (f.priceMax !== '') {
       if (apt.price === null || apt.price > Number(f.priceMax)) return false
     }
-    if (f.management !== '') {
-      if (!apt.management.toLowerCase().includes(f.management.toLowerCase())) return false
+    if (f.management !== 'All') {
+      if (apt.management !== f.management) return false
     }
     if (f.distEngQuad   !== null && apt.distEngQuad   > f.distEngQuad)   return false
     if (f.distUnion     !== null && apt.distUnion     > f.distUnion)     return false
@@ -90,12 +90,12 @@ const DIST_OPTIONS = [
   { label: '< 1 mi     (~20 min)', value: 1.0  },
 ]
 const BED_OPTIONS  = [0, 1, 2, 3, 4]
-const BATH_OPTIONS = [1, 2, 3]
+const BATH_OPTIONS = [1, 2, 3, 4]
 const INITIAL_FILTERS = {
   beds: null, baths: null,
   sqftMin: '', sqftMax: '',
   priceMin: '', priceMax: '',
-  management: '',
+  management: 'All',
   distEngQuad: null, distUnion: null, distSouthQuad: null, distARC: null,
 }
 const DISTANCE_LOCATIONS = [
@@ -112,6 +112,9 @@ export default function SearchPage() {
   const [error, setError] = useState(null)
   const [filters, setFilters] = useState(INITIAL_FILTERS)
   const [results, setResults] = useState(null)
+
+  // Get unique management companies from apartments
+  const managementCompanies = ['All', ...new Set(apartments.map(apt => apt.management).filter(Boolean))]
 
   // Fetch apartments from backend API
   useEffect(() => {
@@ -181,7 +184,7 @@ export default function SearchPage() {
                 className={`sidebar-opt-btn ${filters.baths === n ? 'selected' : ''}`}
                 onClick={() => toggleOpt('baths', n)}
               >
-                {n === 3 ? '3+' : n}
+                {n === 4 ? '4+' : n}
               </button>
             ))}
           </div>
@@ -213,9 +216,18 @@ export default function SearchPage() {
 
         {/* Management */}
         <div className="sidebar-filter">
-          <div className="sidebar-filter-label">Management</div>
-          <input className="sidebar-text-input" type="text" placeholder="e.g. Smile..."
-            value={filters.management} onChange={e => set('management', e.target.value)} />
+          <div className="sidebar-filter-label">Management Company</div>
+          <select
+            className="sidebar-text-input"
+            value={filters.management}
+            onChange={e => set('management', e.target.value)}
+          >
+            {managementCompanies.map(company => (
+              <option key={company} value={company}>
+                {company}
+              </option>
+            ))}
+          </select>
         </div>
 
         {/* Distance — 3 columns */}

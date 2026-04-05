@@ -1,7 +1,7 @@
 export default function Navbar({ currentPage, onNavigate }) {
   return (
     <nav className="navbar">
-      <div className="navbar-brand">UIUC Apartments</div>
+      <div className="navbar-brand">QuadKeys</div>
 
       <div className="navbar-links">
         <button
@@ -16,7 +16,12 @@ export default function Navbar({ currentPage, onNavigate }) {
         >
           Find Your Apartment
         </button>
-        <button className="nav-btn">Other</button>
+        <button
+          className={`nav-btn ${currentPage === 'about' ? 'active' : ''}`}
+          onClick={() => onNavigate('about')}
+        >
+          About Us
+        </button>
       </div>
 
       <div className="navbar-actions">

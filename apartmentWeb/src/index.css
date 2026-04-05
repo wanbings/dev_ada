@@ -1,32 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-  /* Modern Dark Mode / Premium Aesthetic */
-  --navy: #0f172a;
-  --navy-light: #1e293b;
-  --navy-hover: #334155;
-  
-  --accent: #6366f1; /* Indigo accent */
-  --accent-hover: #4f46e5;
-  
+  /* Lighter Blue Theme */
+  --navy: #5a7a9f;
+  --navy-light: #7a9bbd;
+  --navy-hover: #6a8aad;
+
+  --accent: #2980b9; /* Brighter blue accent */
+  --accent-hover: #3498db;
+
   --text-on-dark: #ffffff;
-  --text-dark: #f8fafc;
-  --text-muted: #94a3b8;
-  
-  --border: rgba(255, 255, 255, 0.08);
-  
+  --text-dark: #2c3e50;
+  --text-muted: #7f8c8d;
+
+  --border: rgba(90, 122, 159, 0.2);
+
   --r: 16px;
   --r-pill: 9999px;
-  
-  --bg: #020617;
-  --bg-alt: #0f172a;
-  
-  --card: rgba(15, 23, 42, 0.6);
-  
-  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
-  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
-  
-  --hero-bg: radial-gradient(circle at 50% 0%, #1e293b 0%, #020617 80%);
+
+  --bg: #ecf0f1;
+  --bg-alt: #d5dfe8;
+
+  --card: #ffffff;
+
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+
+  --hero-bg: linear-gradient(135deg, #7a9bbd 0%, #9fb4cc 100%);
 }
 
 /* Base minimal styles */
