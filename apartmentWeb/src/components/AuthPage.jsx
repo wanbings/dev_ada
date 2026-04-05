@@ -6,8 +6,7 @@ function AuthPage() {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
-    password: '',
-    dateOfBirth: ''
+    password: ''
   });
 
   const handleChange = (e) => {
@@ -102,20 +101,6 @@ function AuthPage() {
               required
             />
           </div>
-
-          {isSignUp && (
-            <div className="form-group">
-              <label className="form-label">DATE OF BIRTH</label>
-              <input
-                type="date"
-                name="dateOfBirth"
-                className="form-input"
-                value={formData.dateOfBirth}
-                onChange={handleChange}
-                required
-              />
-            </div>
-          )}
 
           <button type="submit" className="auth-submit-btn">
             {isSignUp ? 'SIGN UP' : 'LOGIN'}
