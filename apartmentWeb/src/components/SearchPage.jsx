@@ -1,27 +1,27 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import ApartmentCard from './ApartmentCard'
-import rawData from '../data/smile_apartments.json'
 
-// ─── Parse raw JSON into usable objects ──────────────────────────────────────
+// ─── Parse data from backend API ──────────────────────────────────────────
 function parseBeds(str) {
   if (!str) return null
-  if (str.toLowerCase() === 'studio') return 0
-  const m = str.match(/(\d+)/)
+  const s = String(str).toLowerCase()
+  if (s.includes('studio')) return 0
+  const m = s.match(/(\d+)/)
   return m ? parseInt(m[1]) : null
 }
 function parseBaths(str) {
   if (!str) return null
-  const m = str.match(/(\d+)/)
+  const m = String(str).match(/(\d+)/)
   return m ? parseInt(m[1]) : null
 }
 function parseRent(str) {
   if (!str || str === '-') return null
-  const m = str.replace(/[$,]/g, '').match(/(\d+)/)
+  const m = String(str).replace(/[$,]/g, '').match(/(\d+)/)
   return m ? parseInt(m[1]) : null
 }
 function parseSqft(str) {
   if (!str || str === 'N/A') return null
-  const m = str.replace(/,/g, '').match(/(\d+)/)
+  const m = String(str).replace(/,/g, '').match(/(\d+)/)
   return m ? parseInt(m[1]) : null
 }
 
@@ -30,20 +30,24 @@ function fakeDist(idx, salt) {
   return parseFloat((((idx * 7919 * salt) % 1000) / 1000 * 1.3 + 0.15).toFixed(2))
 }
 
-const APARTMENTS = rawData.map((item, idx) => ({
-  id: idx,
-  name: item.address,
-  beds: parseBeds(item.beds),
-  baths: parseBaths(item.baths),
-  sqft: parseSqft(item['sq ft']),
-  price: parseRent(item.rent),
-  management: 'Smile Student Living',
-  url: item.url,
-  distEngQuad:   fakeDist(idx, 1),
-  distUnion:     fakeDist(idx, 3),
-  distSouthQuad: fakeDist(idx, 7),
-  distARC:       fakeDist(idx, 11),
-}))
+// Parse API data into our format
+function parseApartments(apiData) {
+  return apiData.map((item, idx) => ({
+    id: idx,
+    name: item.address || 'Address Unavailable',
+    beds: parseBeds(item.beds),
+    baths: parseBaths(item.baths),
+    sqft: parseSqft(item.sq_ft || item.sqft),
+    price: parseRent(item.rent),
+    management: item.leasing_company || 'Unknown',
+    url: item.url || item.link,
+    image: item.image,
+    distEngQuad:   fakeDist(idx, 1),
+    distUnion:     fakeDist(idx, 3),
+    distSouthQuad: fakeDist(idx, 7),
+    distARC:       fakeDist(idx, 11),
+  }))
+}
 
 // ─── Filter logic ─────────────────────────────────────────────────────────────
 function applyFilters(apartments, f) {
@@ -103,8 +107,32 @@ const DISTANCE_LOCATIONS = [
 
 // ─── Component ────────────────────────────────────────────────────────────────
 export default function SearchPage() {
+  const [apartments, setApartments] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
   const [filters, setFilters] = useState(INITIAL_FILTERS)
   const [results, setResults] = useState(null)
+
+  // Fetch apartments from backend API
+  useEffect(() => {
+    fetch('http://localhost:8000/api/apartments')
+      .then(res => {
+        if (!res.ok) throw new Error('Network response was not ok')
+        return res.json()
+      })
+      .then(data => {
+        if (data.status === 'success') {
+          setApartments(parseApartments(data.data))
+        } else {
+          setError(data.message || 'Failed to fetch apartments')
+        }
+        setLoading(false)
+      })
+      .catch(err => {
+        setError('Failed to connect to backend server. Make sure it is running!')
+        setLoading(false)
+      })
+  }, [])
 
   function set(key, value) {
     setFilters(prev => ({ ...prev, [key]: value }))
@@ -113,7 +141,7 @@ export default function SearchPage() {
     setFilters(prev => ({ ...prev, [key]: prev[key] === value ? null : value }))
   }
   function handleSearch() {
-    setResults(applyFilters(APARTMENTS, filters))
+    setResults(applyFilters(apartments, filters))
   }
   function handleClear() {
     setFilters(INITIAL_FILTERS)
@@ -220,7 +248,19 @@ export default function SearchPage() {
 
       {/* ── Results Area ── */}
       <div className="search-results">
-        {results === null ? (
+        {loading ? (
+          <div className="search-empty-state">
+            <div className="search-empty-state-icon">⏳</div>
+            <h3>Loading properties...</h3>
+            <p>Fetching data from backend server</p>
+          </div>
+        ) : error ? (
+          <div className="search-empty-state">
+            <div className="search-empty-state-icon">⚠️</div>
+            <h3>Error loading data</h3>
+            <p>{error}</p>
+          </div>
+        ) : results === null ? (
           <div className="search-empty-state">
             <div className="search-empty-state-icon">🏠</div>
             <h3>Set your filters and search</h3>

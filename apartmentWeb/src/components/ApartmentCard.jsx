@@ -1,7 +1,7 @@
 import { useFavorites } from '../context/FavoritesContext'
 
 export default function ApartmentCard({ apartment }) {
-  const { name, beds, baths, sqft, price, management, url } = apartment
+  const { name, beds, baths, sqft, price, management, url, image } = apartment
   const { toggleFavorite, isFavorite } = useFavorites()
 
   const bedLabel  = beds === 0 ? 'Studio' : `${beds} bed${beds !== 1 ? 's' : ''}`
@@ -31,9 +31,14 @@ export default function ApartmentCard({ apartment }) {
     toggleFavorite(favoriteApartment)
   }
 
+  // Image styling - use real image if available, otherwise show placeholder
+  const imageStyle = image
+    ? { backgroundImage: `url(${image})`, backgroundSize: 'cover', backgroundPosition: 'center' }
+    : {}
+
   return (
     <div className="apt-card" onClick={handleClick} title={url ? 'View listing' : undefined}>
-      <div className="apt-card-img" />
+      <div className={`apt-card-img ${!image ? 'placeholder' : ''}`} style={imageStyle} />
       <button
         className={`apt-card-favorite ${isFav ? 'favorited' : ''}`}
         onClick={handleFavoriteClick}
